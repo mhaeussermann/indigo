@@ -1,14 +1,14 @@
 # main text of home
 name: Manuel Häußermann
-bio: Literaturwissenschaftler mit Begeisterung für die digitale Welt.
+bio: Literatur, Kultur, Digitale Gesellschaft.
 
 # twitter summary info
-description: A blog about technology and stuff related
+description: A blog about literature and culture.
 
 # if it's an external image, update below for true
 # better with square images
 external-image: false
-picture: 
+picture: 'assets/images/profile.jpg'
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
@@ -50,7 +50,7 @@ github: mhaeussermann
 # medium: medium
 # vimeo: myvimeo
 # lanyrd: mylanyrd
-email: m.haeussermann@gmail.com
+# email: 
 
 authors:
     mhaeussermann:
@@ -71,6 +71,7 @@ width: normal
 
 # if you don't need projects, comment the *projects* configs below
 projects: true
+digital humanities: true
 
 # if you don't need "about" or "blog", comment them out below
 about: true
