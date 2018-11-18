@@ -28,15 +28,19 @@ h4
 	font-size: 1.6rem
 
 a
-	color: $delta
+	color: $eta
 	text-decoration: underline
 
 p
+	font-family: $fontSerif
+	font-weight: 100
 	line-height: 1.7
 	color: $alpha
 	font-weight: 300
 	margin-bottom: 20px
 	letter-spacing: 0.4px
+	text-align: justify
+	text-justify: inter-word
 
 	@media #{$mobile}
 		letter-spacing: 0.2px
@@ -56,10 +60,16 @@ img,
 pre,
 iframe
 	max-width: 100%
-
+	
 img,
 pre
 	border-radius: 4px
+
+div > div > p:nth-child(3)	> img
+	border-radius: 100%
+	transition: all .7s ease
+	&:hover
+		transform: scale(1.1)
 
 figcaption
 	position: relative

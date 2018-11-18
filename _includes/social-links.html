@@ -53,12 +53,6 @@
         </a>
     {% endif %}
 
-    {% if site.github %}
-        <a class="link" data-title="github.com/{{ site.github }}" href="https://github.com/{{ site.github }}" target="_blank">
-            <svg class="icon icon-github"><use xlink:href="#icon-github"></use></svg>
-        </a>
-    {% endif %}
-
     {% if site.gitlab %}
         <a class="link" data-title="gitlab.com/{{ site.gitlab }}" href="https://gitlab.com/{{ site.gitlab }}" target="_blank">
             <svg class="icon icon-gitlab"><use xlink:href="#icon-gitlab"></use></svg>
@@ -94,7 +88,19 @@
             <svg class="icon icon-vimeo"><use xlink:href="#icon-vimeo"></use></svg>
         </a>
     {% endif %}
-
+    
+    {% if site.tinyletter %}
+        <a class="link" data-title="tinyletter.com/{{ site.tinyletter }}" href="https://tinyletter.com/{{ site.tinyletter }}" target="_blank">
+            <svg class="icon icon-tinyletter"><use xlink:href="#icon-tinyletter"></use></svg>
+        </a>
+    {% endif %}
+    
+    {% if site.github %}
+        <a class="link" data-title="github.com/{{ site.github }}" href="https://github.com/{{ site.github }}" target="_blank">
+            <svg class="icon icon-github"><use xlink:href="#icon-github"></use></svg>
+        </a>
+    {% endif %}
+    
     {% if site.lanyrd %}
         <a class="link" data-title="lanyrd.com/{{ site.lanyrd }}" href="https://lanyrd.com/{{ site.lanyrd }}" target="_blank">
             <svg class="icon icon-microphone"><use xlink:href="#icon-microphone"></use></svg>
