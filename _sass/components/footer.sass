@@ -24,6 +24,11 @@
 
     > .link
         display: inline
+        color: $gama
+        text-decoration: none
+        border-bottom: 1px solid transparent
+        transition: ease-in-out all .3s
+        padding-bottom: 1px
 
         > .icon
             width: 15px !important
@@ -35,11 +40,13 @@
             margin: 0
 
             &:hover
-                fill: $delta !important
+                fill: $eta !important
 
-    > .extra
+    > .theme-creator
         color: $gama
         margin-top: 0
+        opacity: 0.4
+        text-align: center
 
         > .link
             color: $beta
@@ -47,6 +54,3 @@
             border-bottom: 1px solid transparent
             transition: ease-in-out all .3s
             padding-bottom: 1px
-
-            &:hover
-                border-color: $gama

@@ -3,12 +3,12 @@ name: Manuel Häußermann
 bio: Literatur, Kultur, Digitale Gesellschaft.
 
 # twitter summary info
-description: A blog about literature and culture.
+description: Ein Blog über Literatur und Kultur.
 
 # if it's an external image, update below for true
 # better with square images
-# external-image: false
-# picture: 'assets/images/profile.jpg'
+external-image: false
+picture: 'assets/images/profile.jpg'
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
@@ -41,7 +41,6 @@ instagram: kanonenfutter
 # linkedin: mylinkedin
 # youtube: myyoutube
 # spotify: myspotify
-github: mhaeussermann
 # gitlab: mygitlab
 # lastfm: mylastfm
 # stackoverflow: 7044681/mystackoverflow
@@ -51,11 +50,13 @@ github: mhaeussermann
 # vimeo: myvimeo
 # lanyrd: mylanyrd
 # email: 
+tinyletter: mhaeussermann
+github: mhaeussermann
 
 authors:
     mhaeussermann:
         name: Manuel Häußermann
-        bio: Literaturwissenschaftler
+        bio: Literaturwissenschaftler.
         external-image: false
         picture: assets/images/profile.jpg
         twitter: _mnjl
@@ -78,7 +79,7 @@ about: true
 blog: true
 
 # do you want to show the "read time" of the posts?
-read-time: true
+# read-time: true
 
 # do you want to show the "tags" inside the posts?
 show-tags: true
