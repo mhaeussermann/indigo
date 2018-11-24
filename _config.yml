@@ -34,7 +34,7 @@ disqus:
 
 # if you don't have any of social below, comment the line
 facebook: m.haeussermann
-twitter: _mnjl
+# twitter: _mnjl
 # google: mygoogle
 instagram: kanonenfutter
 # pinterest: mypinterest
@@ -49,9 +49,9 @@ instagram: kanonenfutter
 # medium: medium
 # vimeo: myvimeo
 # lanyrd: mylanyrd
-# email: 
-tinyletter: mhaeussermann
 github: mhaeussermann
+email: hallo@mhaeussermann.de
+tinyletter: mhaeussermann
 
 authors:
     mhaeussermann:
