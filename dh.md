@@ -25,7 +25,7 @@ Als einer der wichtigsten Wortführer und -begründer der jungen Disziplin gilt 
 
 In den fast zwei Dekaden seit dieser Forderung fand eine Konsolidierung statt, was zu einem mittlerweile deutlich gesetzteren Ton führte. Die Digital Humanities sind im akademischen Alltag angekommen. Eine breite Definition legen etwa [Fotis Jannidis et. al (2017)](https://doi.org/10.1007/978-3-476-05446-3) vor. Die Autoren beschreiben das Feld als »Summe aller Versuche, die Informationstechniken auf den Gegenstandsbereich der Geisteswissenschaften anzuwenden« (S. 13). Eine Darstellung, die diese Überschneidung zwischen Geisteswissenschaften und Informatik verdeutlicht, findet sich in Patrick Sahles Paper _[DH Studieren! Auf dem Weg zu einem Kern- und Referenzcurriculum (2013)](http://cceh.uni-koeln.de/files/DARIAH-M2-3-3_DH-programs_1_2_0.pdf)_:
 
-<!--![Abbildung 1]("/assets/images/abb1.jpg")-->
+![Abbildung 1]("/assets/images/abb1.jpg")
 <figcaption class="caption">Sahle (2013), S. 27</figcaption>
 
 Insgesamt lassen sich momentan (mindestens) vier Hauptbereiche der Digital Humanities beschreiben (Vgl. Jannidis et. al. 2017, S. 13):
