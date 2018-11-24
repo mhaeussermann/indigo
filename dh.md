@@ -3,37 +3,41 @@ title: Digital Humanities
 layout: page
 ---
 # Digital Humanities Curriculum
-Inspiriert durch David Venturis ambitioniertes Vorhaben, [sein eigenes Data-Science-Curriculum](http://davidventuri.com/data-science-masters/) aus online
-verfügbaren Kursen und Ressourcen zusammenzustellen und damit selbstbestimmt seine Interessen und Ziele zu verfolgen, habe ich beschlossen, mich in ähnlicher Weise an das Feld der Digital Humanities heranzuwagen. 
+Inspiriert durch David Venturis ambitioniertes Vorhaben, aus online
+verfügbaren Kursen und Ressourcen [sein eigenes Data-Science-Curriculum](http://davidventuri.com/data-science-masters/) zusammenzustellen und damit selbstbestimmt seine Interessen und Ziele zu verfolgen, habe ich beschlossen, mich in ähnlicher Weise an das Feld der Digital Humanities heranzuwagen. 
 
 ## Warum?
-Begründet liegt diese Entscheidung in einer Erfahrung, die ich während meines ›traditionellen‹ literaturwissenschaftlichen Studiums gemacht habe. Mehrmals bin ich dabei den Digital Humanities begegnet, die Beschäftigung verblieb jedoch grundsätzlich auf einer abstrakten Ebene. Die Methodiken, die vorgestellt wurden, durchdrang ich ob der oberflächlichen Einführung im Grunde kaum, wodurch ich auch nicht das ausbilden konnte, was man als _code literacy_ (Vgl. [Rieder und Röhle 2012](https://doi.org/10.1057/9780230371934_4), S. 76), bezeichnen kann: ein kritisches Verständnis der Techniken und Methoden der Digital Humanities.
+Begründet liegt diese Entscheidung in der Erfahrung, die ich während meines ›traditionellen‹ literaturwissenschaftlichen Studiums gemacht habe. Mehrmals sind mir die Digital Humanities in dieser Zeit begegnet, die Auseinandersetzung mit dem Feld verblieb jedoch durchgängig auf einer abstrakten Ebene. Deswegen durchdrang ich die Methodiken und Ansätze, die in diesem Kontext vorgestellt wurden, im Grunde kaum, wodurch ich nicht einmal in die Nähe dessen kam, was man als _code literacy_ (Vgl. [Rieder und Röhle 2012](https://doi.org/10.1057/9780230371934_4), S. 76) bezeichnen kann: ein kritisches Verständnis der Techniken und Methoden der Digital Humanities, ein kritisches Verständnis von Coding in den Geisteswissenschaften.
 
-Zugleich habe ich in Diskussionen mit meinen ›traditionell‹ geisteswissenschaftlichen Kommilitonen immer wieder festgestellt, dass ein gewisses Unbehagen gegenüber den Digital Humanities herrscht, dass sich an den informatischen Anteilen der Disziplin festzumachen scheint, jedoch nie genau spezifiert werden konnte. Offensichtlich sind Monografien und Artikel aus den Digital Humanities für ›traditionelle‹ Geisteswissenschaftler irritierend, herrscht doch ein ganz andere Schreibweise vor, sind doch Texte der Digital Humanities vielfach deutlich anders strukturiert und argumentieren anders als ›klassische‹ geisteswissenschaftliche Forschungsarbeiten (Vgl. zur relativen Inkommensurabilität auch [Ramsay 2003](https://doi.org/10.1093/llc/18.2.167)).
+Zugleich habe ich in Diskussionen mit meinen ›traditionell‹ geisteswissenschaftlichen Kommilitonen immer wieder festgestellt, dass ein gewisses Unbehagen gegenüber den Digital Humanities herrscht, dass sich an den informatischen Anteilen des Bereichs festzumachen scheint, jedoch nie genau spezifiert werden konnte. Offensichtlich sind Monografien und Paper aus den Digital Humanities für ›traditionelle‹ Geisteswissenschaftler häufig irritierend, herrscht doch oft eine ganz andere Schreibweise vor, die mit anderen Argumentationsweisen verbunden ist, als sie in ›klassischen‹ geisteswissenschaftliche Forschungsarbeiten eingesetzt werden. Am deutlichsten zeigt sich diese Teilung in der Beweisführung mit numerischen Daten und graphischen Repräsentationen. (Vgl. zur relativen Inkommensurabilität auch [Ramsay 2003](https://doi.org/10.1093/llc/18.2.167)). 
 
-## Digital Humanities und der Traum einer ›shared methodology‹
+## Der Traum einer transdisziplinären Methodik der Geisteswissenschaften
+Eine Annahme, die häufig mit den Digital Humanities verbunden ist, ist die Hoffnung auf einen stärkeren trans- und interdisziplinären Austausch innerhalb der Geisteswissenschaften, ohne dabei die Besonderheiten der einzelnen Fachkulturen zu verlieren. Diese Hoffnung ist nicht unbegründet: Der Einsatz digitaler Methoden ist nicht auf einen Anwendungsfall oder Disziplin beschränkt und es ist bereits zu diesem Zeitpunkt in der Entwicklung ersichtlich, dass die Digital Humanities es systematisch wie konzeptuell vermögen, lange bestehende geisteswissenschaftsinterne Grenzen zu überschreiten (Vgl. [Meister 2012](https://www.jstor.org/stable/41636598), S. 84). Ob jedoch die Reformulierung geisteswissenschaftlicher Probleme in der Form abstrakten Codes einer neuen _lingua franca_ gleichkommt, die notwendigerweise beherrscht werden muss, um in Zukunft geisteswissenschaftliche Forschung zu betreiben (Vgl. Ebd., S. 83), bleibt abzuwarten.
 
+Meines Erachtens wäre es verfehlt, alle geisteswissenschaftliche Forschung unter die Vorzeichen der Informatik zu stellen. Eine solche Entwicklung würde gerade die produktiven Ausdifferenzierungen der einzelnen Disziplinen, die zumeist einer langen Tradition entspringen, negieren. Zudem scheint es kaum zielführend, alle GeisteswissenschaftlerInnen zu InformatikerInnen umzubilden. Eine Annäherung auf Basis digitaler Methoden halte ich trotzdem für möglich. Die Perspektiven und Möglichkeiten im Bereich der Digital Humanities sind immer noch im Anfangsstadium, es geht entsprechend darum, erst einmal auszuprobieren, was möglich ist und was nicht funktioniert.
 
 ## Entwicklungen und Positionen der Digital Humanities
 Seit meinem Studienbeginn im Jahr 2012 hat die Professionalisierung (und auch [Professoralisierung](https://dhd-blog.org/?p=6174)) der Digital Humanities immer weiter zugenommen. Seit 2013
 gibt es den Verband [Digital Humanities im deutschsprachigen Raum](https://dig-hum.de/ueber-dhd) und es kommt einem vor, als werde in jedem Jahr ein neuer Bachelor- oder Masterstudiengang
-in den Digital Humanities geschaffen. Trotzdem steht die Grundsatzfrage, was Digital Humanities ausmacht oder ausmachen soll, weiter im Mittelpunkt vieler fachinterner Diskussionen. Es seien daher zunächst einige Positionen und Definitionsversuche zu nennen.
+in den Digital Humanities geschaffen. Trotzdem steht die Grundsatzfrage, was Digital Humanities ausmacht oder ausmachen soll, weiter im Mittelpunkt vieler fachinterner Diskussionen. Es seien daher an dieser Stelle einige Positionen und Definitionsversuche zu nennen.
 
-Als einer der wichtigsten Wortführer und -begründer der jungen Disziplin gilt Franco Moretti, der  2010 das [Stanford Literary Lab](https://litlab.stanford.edu/) gründete und bereits im Jahr 2000 den Begriff des _Distant Reading_ prägte, den er fast schon als Kampfbegriff gegen die ›traditionellen‹ Geisteswissenschaften ins Feld führt. Unter _Distant Reading_ versteht Moretti den Fokus auf Einheiten, die entweder deutlich größer (Genre- und Literatursysteme) oder deutlich kleiner (Themen und Tropen) sind als der einzelne Text und die deswegen, so Moretti, nur in Analysen adäquat erfasst und beschrieben werden können, die sich nicht auf einzelne Texte fokussieren (Vgl. [Moretti 2000](https://newleftreview.org/II/1/franco-moretti-conjectures-on-world-literature)). Sein polemischer Appell lautete: "[W]e know how to read texts, now let’s learn how not to read them." (Ebd., S. 57).
+Als einer der wichtigsten Wortführer und -begründer der jungen Disziplin gilt Franco Moretti, der  2010 das [Stanford Literary Lab](https://litlab.stanford.edu/) gründete und bereits zehn Jahre zuvor den Begriff des _Distant Reading_ prägte, den er fast schon als Kampfbegriff gegen die ›traditionellen‹ Literaturwissenschaften ins Feld führte. Unter _Distant Reading_ versteht Moretti den Fokus auf literarische Einheiten, die entweder deutlich größer (Genre- und Literatursysteme) oder deutlich kleiner (Themen und Tropen) sind als der einzelne Text und die deswegen, so Moretti, nur durch Analysen adäquat erfasst und beschrieben werden können, die sich nicht auf einzelne Texte fokussieren, sondern auf große Textmengen (Vgl. [Moretti 2000](https://newleftreview.org/II/1/franco-moretti-conjectures-on-world-literature)). Sein polemischer Appell zu Anfang des neuen Jahrtausends lautete: "[W]e know how to read texts, now let’s learn how not to read them." (Ebd., S. 57).
 
-Eine breite Definition der Digital Humanities legen etwa [Fotis Jannidis et. al (2017)](https://doi.org/10.1007/978-3-476-05446-3) vor. Sie beschreiben das Feld als »Summe aller Versuche, die Informationstechniken auf den Gegenstandsbereich der Geisteswissenschaften anzuwenden« (S. 13). Eine Darstellung, die diese Überschneidung zwischen Geisteswissenschaften und Informatik verdeutlicht, findet sich in Patrick Sahles Paper _[DH Studieren! Auf dem Weg zu einem Kern- und Referenzcurriculum (2013)](http://cceh.uni-koeln.de/files/DARIAH-M2-3-3_DH-programs_1_2_0.pdf)_:
+In den fast zwei Dekaden seit dieser Forderung fand eine Konsolidierung statt, was zu einem mittlerweile deutlich gesetzteren Ton führte. Die Digital Humanities sind im akademischen Alltag angekommen. Eine breite Definition legen etwa [Fotis Jannidis et. al (2017)](https://doi.org/10.1007/978-3-476-05446-3) vor. Die Autoren beschreiben das Feld als »Summe aller Versuche, die Informationstechniken auf den Gegenstandsbereich der Geisteswissenschaften anzuwenden« (S. 13). Eine Darstellung, die diese Überschneidung zwischen Geisteswissenschaften und Informatik verdeutlicht, findet sich in Patrick Sahles Paper _[DH Studieren! Auf dem Weg zu einem Kern- und Referenzcurriculum (2013)](http://cceh.uni-koeln.de/files/DARIAH-M2-3-3_DH-programs_1_2_0.pdf)_:
 
 <!--![Abbildung 1]("/assets/images/abb1.jpg")-->
 <figcaption class="caption">Sahle (2013), S. 27</figcaption>
 
-Insgesamt ergeben sich (mindestens) vier Hauptbereiche der Digital Humanities (Vgl. Jannidis et. al. 2017, S. 13):
+Insgesamt lassen sich momentan (mindestens) vier Hauptbereiche der Digital Humanities beschreiben (Vgl. Jannidis et. al. 2017, S. 13):
 1. Digitale Arbeit mit Texten, beispielsweise Text Mining, Topic Modeling, Stilometrie, Editionsphilologie, Korpuslinguistik.
 2. Digitale Arbeit mit nicht-textuellen Medien, beispielsweise die computergestützte Analyse von Bildern, Musik oder Filmen.
 3. Digitale Aufarbeitung von Quellenmaterial für Datenbanken und andere Anwendungen.
 4. Geisteswissenschaftliche Untersuchung neuer(er) Technologien, etwa hinsichtlich der Frage, inwiefern moderne Medien unsere Gesellschaft verändern.
 
 ## Herangehensweise und Zielstellung
-Besonders interessiert bin ich an dem ersten und dem vierten Punkt.  
+Besonders interessiert bin ich an dem ersten und dem vierten Punkt. Das Curriculum ist jedoch hauptsächlich auf das Erlernen des ersten Punkts ausgerichtet, es soll Grundkenntnisse in Python vermitteln und mit grundlegenden Ansätzen und Methodiken der Korpuslinguistik, sowie aus den Bereichen des Natural Language Processing (NLP) und Machine Learning ergänzen. Die Kurse werden von unterschiedlichen Universitäten beziehungsweise Plattformen angeboten, teilweise sind Inhalte gedoppelt, was jedoch meines Erachtens didaktisch durchaus hilfreich ist. Ich werde im Blog meinen Fortschritt dokumentieren und zudem versuchen, weitere hilfreiche Ressourcen zu finden und vorzustellen. Der Balken zeigt jeweils an, wie weit ich im Kurs fortgeschritten bin.
+
+Die genutzten Kurse lassen sich als Einführung in den Themenbereich verstehen, sei es im Umgang mit Python oder hinsichtlich spezieller Anwendungsfälle digitaler Methodiken zum Umgang mit großen Text– beziehungsweise Datenmengen. Es geht mir nicht darum, vollumfängliche informatische Kenntnisse anzueignen, sondern eine Befähigung zur selbstständigen Anwendung entsprechender Methoden für die Überprüfung und Beantwortung eigener Fragestellungen nebst der Fähigkeit zur kritischen Beurteilung eben jener Techniken und Methoden zu erlangen.
 
 <div class="breaker"></div>
 
@@ -94,7 +98,7 @@ Besonders interessiert bin ich an dem ersten und dem vierten Punkt.
     </div>
     <div class="toright">
     	<a href="https://www.coursera.org/learn/digital-humanities">Sprachtechnologie in den Digital Humanities</a>
-        <p>Grundbegriffe und Konzepte der Korpuslinguistik:  Worthäufigkeiten, Kollokationen, N-Gramme. Zudem Einheiten zur manuellen und automatischen Korpusannotation (Named-entity recognition, Part-of-Speech-Tagging und Lemmata).</p>
+        <p>Grundbegriffe und Konzepte der Korpuslinguistik:  Worthäufigkeiten, Kollokationen, N-Gramme. Zudem Einheiten zur manuellen und automatischen Korpusannotation (Named-entity recognition, Part-of-Speech-Tagging und Lemmatisierung).</p>
     	<progress value="100" max="100">Abgeschlossen</progress>
     	<figcaption class="caption">Abgeschlossen</figcaption>
     </div>
@@ -106,7 +110,7 @@ Besonders interessiert bin ich an dem ersten und dem vierten Punkt.
     </div>
     <div class="toright">
     	<a href="https://www.futurelearn.com/courses/corpus-linguistics">Corpus Linguistics: Method, Analysis, Interpretation</a>
-        <p>Konkordanzanalyse und Kollokationen; Diskursanalyse auf Basis eines Korpus, Soziolinguistik, Grundlagen der Korpuskonstruktion.</p>
+        <p>Diskursanalyse auf Basis eines Korpus, Soziolinguistik, Grundlagen der Korpuskonstruktion, Methoden: Konkordanzanalyse und Kollokationen.</p>
 		<progress value="1" max="8">In Bearbeitung</progress>
 		<figcaption class="caption">In Bearbeitung</figcaption>
     </div>
