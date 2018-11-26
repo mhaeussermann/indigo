@@ -37,7 +37,7 @@ Insgesamt lassen sich momentan (mindestens) vier Hauptbereiche der Digital Human
 ## Herangehensweise und Zielstellung
 Besonders interessiert bin ich an dem ersten und dem vierten Punkt. Das Curriculum ist jedoch hauptsächlich auf das Erlernen des ersten Punkts ausgerichtet, es soll Grundkenntnisse in Python vermitteln und mit grundlegenden Ansätzen und Methodiken der Korpuslinguistik, sowie aus den Bereichen des Natural Language Processing (NLP) und Machine Learning ergänzen. Die Kurse werden von unterschiedlichen Universitäten beziehungsweise Plattformen angeboten, teilweise sind Inhalte gedoppelt, was jedoch meines Erachtens didaktisch durchaus hilfreich ist. Ich werde im Blog meinen Fortschritt dokumentieren und zudem versuchen, weitere hilfreiche Ressourcen zu finden und vorzustellen. Der Balken zeigt jeweils an, wie weit ich im Kurs fortgeschritten bin.
 
-Die genutzten Kurse lassen sich als Einführung in den Themenbereich verstehen, sei es im Umgang mit Python oder hinsichtlich spezieller Anwendungsfälle digitaler Methodiken zum Umgang mit großen Text– beziehungsweise Datenmengen. Es geht mir nicht darum, vollumfängliche informatische Kenntnisse anzueignen, sondern eine Befähigung zur selbstständigen Anwendung entsprechender Methoden für die Überprüfung und Beantwortung eigener Fragestellungen nebst der Fähigkeit zur kritischen Beurteilung eben jener Techniken und Methoden zu erlangen.
+Die genutzten Kurse lassen sich je als Einführung in den entsprechenden Themenbereich verstehen, sei es im Umgang mit Python oder hinsichtlich spezieller Anwendungsfälle digitaler Methodiken zum Umgang mit großen Text– beziehungsweise Datenmengen. Es geht mir demanch nicht darum, vollumfängliche informatische Kenntnisse anzueignen, sondern eine Befähigung zur selbstständigen Konzeption und Anwendung digitaler Methoden für die Überprüfung und Beantwortung eigener Fragestellungen zu erlangen nebst der Fähigkeit zur kritischen Beurteilung eben jener Techniken und Methoden.
 
 <div class="breaker"></div>
 
@@ -47,9 +47,9 @@ Die genutzten Kurse lassen sich als Einführung in den Themenbereich verstehen, 
         <img class="image" src="http://www.cs50xhelpers.org/img/fb.png" alt="Harvard CS50">
     </div>
     <div class="toright">
-        <h3><a href="https://cs50.edx.org">CS50: Introduction to Computer Science</a></h3>
-        <p>Grundkurs in Informatik. Vermittlung der Grundlagen des algorithmischen Denkens und von grundlegenden Konzepten der Informatik (Abstraktion, Datenstrukturen, Softwaretechnik und –sicherheit, Webentwicklung). Einführung in gängige Programmiersprachen (C, Python, SQL sowie HTML/CSS und Javascript).</p>
-    	<progress value="1" max="7">In Bearbeitung</progress>
+        <a href="https://cs50.edx.org">CS50: Introduction to Computer Science</a>
+        <p>Grundkurs in Informatik. Vermittlung der Grundlagen des algorithmischen Denkens und von grundlegenden Konzepten der Informatik (Abstraktion, Datenstrukturen, Softwaretechnik und –sicherheit, Webentwicklung). Einführung in gängige Programmiersprachen (C, Python, SQL sowie HTML/CSS und Javascript).</p><br />
+    	<progress value="1" max="11">In Bearbeitung</progress>
     	<figcaption class="caption">In Bearbeitung</figcaption>
     </div>
 </div>
@@ -59,8 +59,8 @@ Die genutzten Kurse lassen sich als Einführung in den Themenbereich verstehen, 
         <img class="image" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Udacity_logo.png/800px-Udacity_logo.png" alt="Programming Foundations with Python">
     </div>
     <div class="toright">
-    	<h3><a href="https://eu.udacity.com/course/programming-foundations-with-python--ud036">Programming Foundations with Python</a></h3>
-        <p>Einführung in das objekt-orientierte Programmieren mit Python, das jedoch ein gewisses Grundverständnis von Python voraussetzt.</p>
+    	<a href="https://eu.udacity.com/course/programming-foundations-with-python--ud036">Programming Foundations with Python</a>
+        <p>Einführung in das objekt-orientierte Programmieren mit Python, das jedoch ein gewisses Grundverständnis von Python voraussetzt.</p><br />
 		<progress value="48" max="100">In Bearbeitung</progress>
 		<figcaption class="caption">In Bearbeitung</figcaption>
     </div>
@@ -71,8 +71,8 @@ Die genutzten Kurse lassen sich als Einführung in den Themenbereich verstehen, 
         <img class="image" src="https://bertelsmann-university.com/fileadmin/_processed_/0/1/csm_Bertelsmann-Data-Science-Scholarship-Badge_7f392548dc.png" alt="Bertelsmann Data Science Challenge">
     </div>
     <div class="toright">
-    	<h3><a href="https://www.udacity.com/bertelsmann-data-scholarships">Bertelsmann Data Science Challenge Scholarship Course</a></h3>
-        <p>Dreimonatiger Challenge Course, in dem die Grundlagen der Data Science vermittelt wurden. Grundlegende Konzepte aus den drei Bereichen deskriptive Statistik, Python und SQL zur Beschreibung, Erforschung und Visualisierung von bereitgestellten Daten.</p>
+    	<a href="https://www.udacity.com/bertelsmann-data-scholarships">Bertelsmann Data Science Challenge Scholarship Course</a>
+        <p>Dreimonatiger Challenge Course, in dem die Grundlagen der Data Science vermittelt wurden. Grundlegende Konzepte aus den drei Bereichen deskriptive Statistik, Python und SQL zur Beschreibung, Erforschung und Visualisierung von bereitgestellten Daten.</p><br />
 		<progress value="100" max="100">Abgeschlossen</progress>
 		<figcaption class="caption">Abgeschlossen</figcaption>
     </div>
@@ -84,7 +84,7 @@ Die genutzten Kurse lassen sich als Einführung in den Themenbereich verstehen, 
     </div>
 	<div class="toright">
 		<h3><a href="https://www.coursera.org/learn/datasciencemathskills">Data Science Math Skills</a></h3>
-        <p>Mathematische Vokabeln, Konzepte und Regeln für ein tieferes Verständnis der Data Science.</p>
+        <p>Mathematische Vokabeln, Konzepte und Regeln für ein tieferes Verständnis der Data Science.</p><br />
 		<progress value="0" max="100">Noch nicht begonnen</progress>
 		<figcaption class="caption">Noch nicht begonnen</figcaption>
     </div>
@@ -98,7 +98,7 @@ Die genutzten Kurse lassen sich als Einführung in den Themenbereich verstehen, 
     </div>
     <div class="toright">
     	<a href="https://www.coursera.org/learn/digital-humanities">Sprachtechnologie in den Digital Humanities</a>
-        <p>Grundbegriffe und Konzepte der Korpuslinguistik:  Worthäufigkeiten, Kollokationen, N-Gramme. Zudem Einheiten zur manuellen und automatischen Korpusannotation (Named-entity recognition, Part-of-Speech-Tagging und Lemmatisierung).</p>
+        <p>Grundbegriffe und Konzepte der Korpuslinguistik:  Worthäufigkeiten, Kollokationen, N-Gramme. Zudem Einheiten zur manuellen und automatischen Korpusannotation (Named-entity recognition, Part-of-Speech-Tagging und Lemmatisierung).</p><br />
     	<progress value="100" max="100">Abgeschlossen</progress>
     	<figcaption class="caption">Abgeschlossen</figcaption>
     </div>
@@ -110,7 +110,7 @@ Die genutzten Kurse lassen sich als Einführung in den Themenbereich verstehen, 
     </div>
     <div class="toright">
     	<a href="https://www.futurelearn.com/courses/corpus-linguistics">Corpus Linguistics: Method, Analysis, Interpretation</a>
-        <p>Diskursanalyse auf Basis eines Korpus, Soziolinguistik, Grundlagen der Korpuskonstruktion, Methoden: Konkordanzanalyse und Kollokationen.</p>
+        <p>Diskursanalyse auf Basis eines Korpus, Soziolinguistik, Grundlagen der Korpuskonstruktion, Methoden: Konkordanzanalyse und Kollokationen.</p><br />
 		<progress value="1" max="8">In Bearbeitung</progress>
 		<figcaption class="caption">In Bearbeitung</figcaption>
     </div>
@@ -123,7 +123,7 @@ Die genutzten Kurse lassen sich als Einführung in den Themenbereich verstehen, 
     </div>
     <div class="toright">
     	<a href="https://www.coursera.org/learn/social-economic-networks">Social and Economic Networks: Models and Analysis</a>
-        <p>Modellierung von Netzwerken für die Visualisierung von Zusammenhängen in Gesellschaft und Ökonomie.</p>
+        <p>Modellierung von Netzwerken für die Visualisierung von Zusammenhängen in Gesellschaft und Ökonomie.</p><br />
     	<progress value="0" max="8">Noch nicht begonnen</progress>
     	<figcaption class="caption">Noch nicht begonnen</figcaption>
     </div>
@@ -135,7 +135,7 @@ Die genutzten Kurse lassen sich als Einführung in den Themenbereich verstehen, 
     </div>
     <div class="toright">
     	<a href="https://www.coursera.org/learn/python-social-network-analysis">Applied Social Network Analysis in Python</a>
-        <p>Einführung in die Netzwerkanalyse mit NetworkX.</p>
+        <p>Einführung in die Netzwerkanalyse mit NetworkX.</p><br />
     	<progress value="0" max="4">Noch nicht begonnen</progress>
     	<figcaption class="caption">Noch nicht begonnen</figcaption>
     </div>
@@ -149,7 +149,7 @@ Die genutzten Kurse lassen sich als Einführung in den Themenbereich verstehen, 
     </div>
     <div class="toright">
     	<a href="https://github.com/cltl/python-for-text-analysis">Python for Text Analysis</a>
-        <p>Einführung in die Verwendung von Python für Textanalysen des Computational Lexicology and & Terminology Lab der Vrije Universiteit Amsterdam. Ergänzt durch das Arbeitsbuch <i><a href="https://github.com/walshbr/textanalysiscoursebook">Introduction to Text Analysis</a></i> von Brandon Walsh und Sarah Horowitz.</p>
+        <p>Einführung in die Verwendung von Python für Textanalysen des Computational Lexicology and & Terminology Lab der Vrije Universiteit Amsterdam. Ergänzt durch das Arbeitsbuch <i><a href="https://github.com/walshbr/textanalysiscoursebook">Introduction to Text Analysis</a></i> von Brandon Walsh und Sarah Horowitz.</p><br />
 		<progress value="0" max="12">Noch nicht begonnen</progress>
 		<figcaption class="caption">Noch nicht begonnen</figcaption>
     </div>
@@ -161,7 +161,7 @@ Die genutzten Kurse lassen sich als Einführung in den Themenbereich verstehen, 
     </div>
     <div class="toright">
     	<a href="https://www.coursera.org/learn/text-mining">Text Mining and Analytics</a>
-        <p>Techniken und Methoden zur Gewinnung und Analyse von Textdaten (Natural Language Processing), unter anderem Topic Analysis, Text Clustering und Text Categorization.</p>
+        <p>Techniken und Methoden zur Gewinnung und Analyse von Textdaten (Natural Language Processing), unter anderem Topic Analysis, Text Clustering und Text Categorization.</p><br />
     	<progress value="0" max="6">Noch nicht begonnen</progress>
     	<figcaption class="caption">Noch nicht begonnen</figcaption>
     </div>
@@ -176,7 +176,7 @@ Die genutzten Kurse lassen sich als Einführung in den Themenbereich verstehen, 
     </div>
     <div class="toright">
     	<a href="https://www.udacity.com/facebook-pytorch-scholarship">PyTorch Scholarship Challenge</a>
-        <p>Zweimonatiger Challenge Course, in dem die Grundlagen des Deep Learning mit der Python-Programmbibliothek <a href="https://pytorch.org/">PyTorch</a> vermittelt werden. Konstruktion, Training und Anwendung von Machine-Learning-Algorithmen.</p>
+        <p>Zweimonatiger Challenge Course, in dem die Grundlagen des Deep Learning mit der Python-Programmbibliothek <a href="https://pytorch.org/">PyTorch</a> vermittelt werden. Konstruktion, Training und Anwendung von Machine-Learning-Algorithmen.</p><br />
     	<progress value="9" max="100">In Bearbeitung</progress>
     	<figcaption class="caption">In Bearbeitung</figcaption>
     </div>
@@ -188,7 +188,7 @@ Die genutzten Kurse lassen sich als Einführung in den Themenbereich verstehen, 
     </div>
     <div class="toright">
     	<a href="https://www.edx.org/course/deep-learning-with-python-and-pytorch">Deep Learning with Python and PyTorch</a>
-        <p>Neben Deep Learning mit PyTorch beinhaltet der Kurs auch Einheiten zum Einsatz von Numpy und Pandas für die Nutzung im Bereich Machine Learning.</p>
+        <p>Neben Deep Learning mit PyTorch beinhaltet der Kurs auch Einheiten zum Einsatz von Numpy und Pandas für die Nutzung im Bereich Machine Learning.</p><br />
 		<progress value="0" max="6">Noch nicht begonnen</progress>
 		<figcaption class="caption">Noch nicht begonnen</figcaption>
     </div>
