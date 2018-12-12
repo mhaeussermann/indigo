@@ -2,6 +2,7 @@
 title: Digital Humanities
 layout: page
 ---
+
 # Digital Humanities Curriculum
 Inspiriert durch David Venturis ambitioniertes Vorhaben, aus online
 verfügbaren Kursen und Ressourcen [sein eigenes Data-Science-Curriculum](http://davidventuri.com/data-science-masters/) zusammenzustellen und damit selbstbestimmt seine Interessen und Ziele zu verfolgen, habe ich beschlossen, mich in ähnlicher Weise an das Feld der Digital Humanities heranzuwagen. 

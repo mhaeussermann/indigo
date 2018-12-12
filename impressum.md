@@ -2,6 +2,7 @@
 title: Impressum/Datenschutz
 layout: page
 ---
+
 <h2>Impressum</h2>
 <p>Angaben gemäß § 5 TMG</p><p>Manuel Häußermann <br> 
 Schützenallee 11<br> 
