@@ -50,7 +50,7 @@ instagram: kanonenfutter
 # vimeo: myvimeo
 # lanyrd: mylanyrd
 github: mhaeussermann
-email: m.haeussermann@gmail.com
+email: hallo@mhaeussermann.de
 tinyletter: mhaeussermann
 
 authors:
@@ -71,7 +71,7 @@ width: normal
 # paginate_path: "blog/:num/"
 
 # if you don't need projects, comment the *projects* configs below
-# projects: true
+projects: true
 dighum: true
 
 # if you don't need "about" or "blog", comment them out below
@@ -85,10 +85,10 @@ blog: true
 show-tags: true
 
 # related posts inside a post?
-# related: true
+related: true
 
 # Display links for next and previous posts for the specified categories
-# post-advance-links: [blog]
+post-advance-links: [blog]
 
 # show author block at the end of a post ?
 show-author: true
