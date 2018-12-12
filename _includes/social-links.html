@@ -101,16 +101,15 @@
         </a>
     {% endif %}
 
-    {% if site.email %}
-        <a class="link" data-title="{{ site.email }}" href="mailto:{{ site.email }}">
-            <svg class="icon icon-mail"><use xlink:href="#icon-mail"></use></svg>
-        </a>
-    {% endif %}
-
     {% if site.tinyletter %}
     <a class="link" data-title="tinyletter.com/{{ site.tinyletter }}" href="https://tinyletter.com/{{ site.tinyletter }}" target="_blank">
         <svg class="icon icon-tinyletter"><use xlink:href="#icon-tinyletter"></use></svg>
     </a>
     {% endif %}
     
+    {% if site.email %}
+    <a class="link" data-title="{{ site.email }}" href="mailto:{{ site.email }}">
+        <svg class="icon icon-mail"><use xlink:href="#icon-mail"></use></svg>
+    </a>
+{% endif %}
 </div>
