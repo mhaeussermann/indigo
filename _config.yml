@@ -1,6 +1,6 @@
 ---
-title: Mhaeussermann.Github.Io
-timezone: UTC
+title: mhaeussermann.github.io
+timezone: GMT+2
 collections:
   posts:
     title: Posts
@@ -34,25 +34,10 @@ authors:
     picture: assets/images/profile.jpg
     twitter: _mnjl
 width: normal
-
-# if you don't need pagination, comment the *paginate* configs below
-# paginate: 5
-# paginate_path: "blog/:num/"
-
-# if you don't need projects, comment the *projects* configs below
-projects: true
 dighum: true
 about: true
 blog: true
 show-tags: true
-
-# related posts inside a post?
-related: true
-
-# Display links for next and previous posts for the specified categories
-post-advance-links: [blog]
-
-# show author block at the end of a post ?
 show-author: true
 animation: true
 plugins:
