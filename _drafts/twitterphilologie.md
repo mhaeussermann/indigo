@@ -1,13 +1,14 @@
 ---
 title: "#twitterphilologie"
-layout: post
-date: 2018-11-16 12:00
-tag:
+date: 2018-11-16 12:00:00 Z
+categories:
+- blog
+tags:
 - digital humanities
+layout: post
 star: true
-category: blog
 author: mhaeussermann
-description: Geisteswissenschaftlichen Kommunikation auf Twitter und der Hashtag #twitterphilologie
+description: Geisteswissenschaftlichen Kommunikation auf Twitter und der Hashtag
 ---
 
 In den letzten Monaten scheint Twitter als Kommunikationsmittel zunehmend auch in der deutschen Wissenschaftslandschaft Fuß zu fassen. Die Beschreibung, Twitter sei auch "ein Ort für Bildungsreisende, die [Jörg Scheller](https://twitter.com/joergscheller1) und [Wolfgang Ullrich](https://twitter.com/ideenfreiheit) Anfang des Jahres in Die Zeit beschrieben haben ([Link](https://www.zeit.de/2018/22/twitter-tweets-intellektuelle-philosophie-diskurs-debatte/komplettansicht)), deckt sich mit meinen eigenen Erfahrungen.

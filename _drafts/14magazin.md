@@ -1,12 +1,13 @@
 ---
-title: "14magazin"
+title: 14magazin
+date: 2018-11-16 12:10:00 Z
+categories:
+- project
 layout: post
-date: 2018-11-16 12:10
 headerImage: true
 projects: true
-hidden: true # don't count this post in blog pagination
-description: "Webpräsenz für das studentische Magazin 14magazin"
-category: project
+hidden: true
+description: Webpräsenz für das studentische Magazin 14magazin
 author: mhaeussermann
 externalLink: false
 ---

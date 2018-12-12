@@ -2,6 +2,7 @@
 title: Kontakt
 layout: page
 ---
+
 # Kontakt
 Wenn du mit mir in Kontakt treten willst, dann schreibe mir gerne an die Adresse hallo [at] mhaeussermann [dot] de. 
 Falls du deine E-Mail verschlüsseln möchtest – gute Gründe dafür zeigt die Website [Virtual Privacy](https://virtual-privacy.org/) auf – benutze den folgenden PGP-Key:

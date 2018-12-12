@@ -2,6 +2,7 @@
 title: About
 layout: page
 ---
+
 # Über
 
 <img src="/assets/images/profile.jpg" style="border-radius: 100%" alt="Profilbild">
