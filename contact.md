@@ -4,7 +4,7 @@ layout: page
 ---
 
 # Kontakt
-Wenn du mit mir in Kontakt treten willst, dann schreibe mir gerne an die Adresse m [] mhaeussermann [at] gmail [dot] com.
+Wenn du mit mir in Kontakt treten willst, dann schreibe mir gerne an die Adresse m [dot] haeussermann [at] gmail [dot] com.
 Falls du deine E-Mail verschlüsseln möchtest – gute Gründe dafür zeigt die Website [Virtual Privacy](https://virtual-privacy.org/) auf – benutze den folgenden PGP-Key:
 
 {% highlight raw %}
