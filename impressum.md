@@ -1,6 +1,7 @@
 ---
 title: Impressum/Datenschutz
 layout: page
+sitemap: false
 ---
 
 <h2>Impressum</h2>

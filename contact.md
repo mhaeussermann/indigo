@@ -1,6 +1,7 @@
 ---
 title: Kontakt
 layout: page
+sitemap: false
 ---
 
 # Kontakt
