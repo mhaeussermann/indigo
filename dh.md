@@ -63,7 +63,7 @@ Die genutzten Kurse lassen sich je als Einführung in den entsprechenden Themenb
     <div class="toright">
     	<a href="https://eu.udacity.com/course/programming-foundations-with-python--ud036">Programming Foundations with Python</a>
         <p>Einführung in das objekt-orientierte Programmieren mit Python, das jedoch ein gewisses Grundverständnis von Python voraussetzt.</p><br />
-		<progress value="63" max="100">In Bearbeitung</progress>
+		<progress value="93" max="100">In Bearbeitung</progress>
 		<figcaption class="caption">In Bearbeitung</figcaption>
     </div>
 </div>
@@ -113,7 +113,7 @@ Die genutzten Kurse lassen sich je als Einführung in den entsprechenden Themenb
     <div class="toright">
     	<a href="https://www.futurelearn.com/courses/corpus-linguistics">Corpus Linguistics: Method, Analysis, Interpretation</a>
         <p>Diskursanalyse auf Basis eines Korpus, Soziolinguistik, Grundlagen der Korpuskonstruktion, Methoden: Konkordanzanalyse und Kollokationen.</p><br />
-		<progress value="15" max="100">In Bearbeitung</progress>
+		<progress value="23" max="100">In Bearbeitung</progress>
 		<figcaption class="caption">In Bearbeitung</figcaption>
     </div>
 </div>
@@ -152,7 +152,7 @@ Die genutzten Kurse lassen sich je als Einführung in den entsprechenden Themenb
     <div class="toright">
     	<a href="https://github.com/cltl/python-for-text-analysis">Python for Text Analysis</a>
         <p>Einführung in die Verwendung von Python für Textanalysen des Computational Lexicology and & Terminology Lab der Vrije Universiteit Amsterdam. Ergänzt durch das Arbeitsbuch <i><a href="https://github.com/walshbr/textanalysiscoursebook">Introduction to Text Analysis</a></i> von Brandon Walsh und Sarah Horowitz.</p><br />
-		<progress value="4" max="18">In Bearbeitung</progress>
+		<progress value="6" max="18">In Bearbeitung</progress>
 		<figcaption class="caption">In Bearbeitung</figcaption>
     </div>
 </div>
