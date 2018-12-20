@@ -20,7 +20,7 @@ layout: page
 		<li>HTML</li>
 		<li>CSS (Sass)</li>
 		<li>JavaScript</li>
-		<li>CMS (Wordpress, Joomla, Drupal)</li>
+		<li>CMS (Wordpress, Joomla, Ghost, Drupal)</li>
 		<li>Python</li>
 		<li>MySQL</li>
 		<li>Git</li>
@@ -29,7 +29,7 @@ layout: page
     <td>
 	<h2>Kompetenzen</h2>
 	<ul class="skill-">
-		<li>Literaturwissenschaften</li>
+		<li>Literatur- und Kulturwissenschaft</li>
 		<li>Interkulturalität</li>
 		<li>Inter- und Transdisziplinarität</li>
 		<li>Flexibilität</li>
