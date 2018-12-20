@@ -45,26 +45,14 @@ Die genutzten Kurse lassen sich je als Einführung in den entsprechenden Themenb
 
 <h1 text-align="center">Grundlagenkurse</h1>
 <div class="side-by-side">
-    <div class="toleft">
-        <img class="image" src="http://www.cs50xhelpers.org/img/fb.png" alt="Harvard CS50">
-    </div>
     <div class="toright">
-        <a href="https://cs50.edx.org">CS50: Introduction to Computer Science</a>
-        <p>Grundkurs in Informatik. Vermittlung der Grundlagen des algorithmischen Denkens und von grundlegenden Konzepten der Informatik (Abstraktion, Datenstrukturen, Softwaretechnik und –sicherheit, Webentwicklung). Einführung in gängige Programmiersprachen (C, Python, SQL sowie HTML/CSS und Javascript).</p><br />
-    	<progress value="1" max="11">In Bearbeitung</progress>
-    	<figcaption class="caption">In Bearbeitung</figcaption>
-    </div>
-</div>
-
-<div class="side-by-side">
-    <div class="toleft">
-        <img class="image" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Udacity_logo.png/800px-Udacity_logo.png" alt="Programming Foundations with Python">
+        <img class="image" src="{{ site.url }}{{ "/assets/images/oopcourse.png" }}" alt="Programming Foundations with Python">
     </div>
     <div class="toright">
     	<a href="https://eu.udacity.com/course/programming-foundations-with-python--ud036">Programming Foundations with Python</a>
-        <p>Einführung in das objekt-orientierte Programmieren mit Python, das jedoch ein gewisses Grundverständnis von Python voraussetzt.</p><br />
-		<progress value="93" max="100">In Bearbeitung</progress>
-		<figcaption class="caption">In Bearbeitung</figcaption>
+        <p class="programming">Einführung in die objektorientierte Programmierung mit Python mit grundlegenden Einheiten zur Struktur und den Modulen der Standardbibliothek sowie zu Konzept und Anwendung von Funktionen und Klassen. Verschiedene Projekte zum anwendungsorientierten Erlernen  algorithmischer Problemlösung.</p>
+		<progress value="100" max="100">Abgeschlossen</progress>
+		<figcaption class="caption">Abgeschlossen</figcaption>
     </div>
 </div>
 
@@ -74,9 +62,33 @@ Die genutzten Kurse lassen sich je als Einführung in den entsprechenden Themenb
     </div>
     <div class="toright">
     	<a href="https://www.udacity.com/bertelsmann-data-scholarships">Bertelsmann Data Science Challenge Scholarship Course</a>
-        <p>Dreimonatiger Challenge Course, in dem die Grundlagen der Data Science vermittelt wurden. Grundlegende Konzepte aus den drei Bereichen deskriptive Statistik, Python und SQL zur Beschreibung, Erforschung und Visualisierung von bereitgestellten Daten.</p><br />
+        <p class="programming">Dreimonatiger <i>Challenge Course</i>, in dem die Grundlagen der Data Science vermittelt wurden. Grundlegende Konzepte aus den drei Bereichen deskriptive Statistik, Python und SQL zur Beschreibung, Erforschung und Visualisierung von bereitgestellten Daten.</p>
 		<progress value="100" max="100">Abgeschlossen</progress>
 		<figcaption class="caption">Abgeschlossen</figcaption>
+    </div>
+</div>
+
+<div class="side-by-side">
+    <div class="toleft">
+        <img class="image" src="http://www.cs50xhelpers.org/img/fb.png" alt="Harvard CS50">
+    </div>
+    <div class="toright">
+        <a href="https://cs50.edx.org">CS50: Introduction to Computer Science</a>
+        <p class="programming">Grundkurs in Informatik. Vermittlung der Grundlagen des algorithmischen Denkens und von grundlegenden Konzepten der Informatik (Abstraktion, Datenstrukturen, Softwaretechnik und –sicherheit, Webentwicklung). Einführung in gängige Programmiersprachen (C, Python, SQL sowie HTML/CSS und Javascript).</p>
+    	<progress value="1" max="11">In Bearbeitung</progress>
+    	<figcaption class="caption">In Bearbeitung</figcaption>
+    </div>
+</div>
+
+<div class="side-by-side">
+    <div class="toleft">
+        <img class="image" src="https://the-javascripting-english-major.org/v1/assets/images/logo-no-border.svg" height="75%" width="auto" alt="The Javascripting English Major">
+    </div>
+    <div class="toleft">
+        <a href="https://the-javascripting-english-major.org/v1/contents">The JavaScripting English Major</a>
+        <p class="programming">Anwendungsorientierter Kurs in JavaScript für <i>English Majors</i> und andere Geisteswissenschafter von <a href="https://moacir.com/" >Moacir P. de Sá Pereira</a>. Hilfreich insbesondere für die Vermittlung geisteswissenschaftler Thesen und Ergebnisse im digitalen Raum.</p>
+    	<progress value="5" max="15">In Bearbeitung</progress>
+    	<figcaption class="caption">In Bearbeitung</figcaption>
     </div>
 </div>
 
@@ -100,7 +112,7 @@ Die genutzten Kurse lassen sich je als Einführung in den entsprechenden Themenb
     </div>
     <div class="toright">
     	<a href="https://www.coursera.org/learn/digital-humanities">Sprachtechnologie in den Digital Humanities</a>
-        <p>Grundbegriffe und Konzepte der Korpuslinguistik:  Worthäufigkeiten, Kollokationen, N-Gramme. Zudem Einheiten zur manuellen und automatischen Korpusannotation (Named-entity recognition, Part-of-Speech-Tagging und Lemmatisierung).</p><br />
+        <p class="programming">Grundbegriffe und Konzepte der Korpuslinguistik:  Worthäufigkeiten, Kollokationen, N-Gramme. Zudem Einheiten zur manuellen und automatischen Korpusannotation (Named-entity recognition, Part-of-Speech-Tagging und Lemmatisierung).</p>
     	<progress value="100" max="100">Abgeschlossen</progress>
     	<figcaption class="caption">Abgeschlossen</figcaption>
     </div>
@@ -112,7 +124,7 @@ Die genutzten Kurse lassen sich je als Einführung in den entsprechenden Themenb
     </div>
     <div class="toright">
     	<a href="https://www.futurelearn.com/courses/corpus-linguistics">Corpus Linguistics: Method, Analysis, Interpretation</a>
-        <p>Diskursanalyse auf Basis eines Korpus, Soziolinguistik, Grundlagen der Korpuskonstruktion, Methoden: Konkordanzanalyse und Kollokationen.</p><br />
+        <p class="programming">Diskursanalyse auf Basis eines Korpus, Soziolinguistik, Grundlagen der Korpuskonstruktion, Methoden: Konkordanzanalyse und Kollokationen.</p>
 		<progress value="23" max="100">In Bearbeitung</progress>
 		<figcaption class="caption">In Bearbeitung</figcaption>
     </div>
@@ -151,7 +163,7 @@ Die genutzten Kurse lassen sich je als Einführung in den entsprechenden Themenb
     </div>
     <div class="toright">
     	<a href="https://github.com/cltl/python-for-text-analysis">Python for Text Analysis</a>
-        <p>Einführung in die Verwendung von Python für Textanalysen des Computational Lexicology and & Terminology Lab der Vrije Universiteit Amsterdam. Ergänzt durch das Arbeitsbuch <i><a href="https://github.com/walshbr/textanalysiscoursebook">Introduction to Text Analysis</a></i> von Brandon Walsh und Sarah Horowitz.</p><br />
+        <p class="programming">Einführung in die Verwendung von Python für Textanalysen des Computational Lexicology and & Terminology Lab der Vrije Universiteit Amsterdam. Ergänzt durch das Arbeitsbuch <i><a href="https://github.com/walshbr/textanalysiscoursebook">Introduction to Text Analysis</a></i> von Brandon Walsh und Sarah Horowitz.</p>
 		<progress value="6" max="18">In Bearbeitung</progress>
 		<figcaption class="caption">In Bearbeitung</figcaption>
     </div>
@@ -163,7 +175,7 @@ Die genutzten Kurse lassen sich je als Einführung in den entsprechenden Themenb
     </div>
     <div class="toright">
     	<a href="https://www.coursera.org/learn/text-mining">Text Mining and Analytics</a>
-        <p>Techniken und Methoden zur Gewinnung und Analyse von Textdaten (Natural Language Processing), unter anderem Topic Analysis, Text Clustering und Text Categorization.</p><br />
+        <p class="programming">Techniken und Methoden zur Gewinnung und Analyse von Textdaten (Natural Language Processing), unter anderem Topic Analysis, Text Clustering und Text Categorization.</p>
     	<progress value="0" max="6">Noch nicht begonnen</progress>
     	<figcaption class="caption">Noch nicht begonnen</figcaption>
     </div>
@@ -178,7 +190,7 @@ Die genutzten Kurse lassen sich je als Einführung in den entsprechenden Themenb
     </div>
     <div class="toright">
     	<a href="https://www.udacity.com/facebook-pytorch-scholarship">PyTorch Scholarship Challenge</a>
-        <p>Zweimonatiger Challenge Course, in dem die Grundlagen des Deep Learning mit der Python-Programmbibliothek <a href="https://pytorch.org/">PyTorch</a> vermittelt werden. Konstruktion, Training und Anwendung von Machine-Learning-Algorithmen.</p><br />
+        <p class="programming">Zweimonatiger Challenge Course, in dem die Grundlagen des Deep Learning mit der Python-Programmbibliothek <a href="https://pytorch.org/">PyTorch</a> vermittelt werden. Konstruktion, Training und Anwendung von Machine-Learning-Algorithmen.</p>
     	<progress value="9" max="100">In Bearbeitung</progress>
     	<figcaption class="caption">In Bearbeitung</figcaption>
     </div>
@@ -190,7 +202,7 @@ Die genutzten Kurse lassen sich je als Einführung in den entsprechenden Themenb
     </div>
     <div class="toright">
     	<a href="https://www.edx.org/course/deep-learning-with-python-and-pytorch">Deep Learning with Python and PyTorch</a>
-        <p>Neben Deep Learning mit PyTorch beinhaltet der Kurs auch Einheiten zum Einsatz von Numpy und Pandas für die Nutzung im Bereich Machine Learning.</p><br />
+        <p class="programming">Neben Deep Learning mit PyTorch beinhaltet der Kurs auch Einheiten zum Einsatz von Numpy und Pandas für die Nutzung im Bereich Machine Learning.</p>
 		<progress value="0" max="6">Noch nicht begonnen</progress>
 		<figcaption class="caption">Noch nicht begonnen</figcaption>
     </div>

@@ -14,9 +14,9 @@
 
         @media #{$below}
             img
-                text-align: center
+                vertical-align: right
                 display: block
-                margin: 0 auto
+                margin: auto auto
 
     > .toleft
         @media #{$above}
@@ -41,3 +41,11 @@
 
         @media #{$below}
             margin: 0
+
+    > .toleft > p.programming,
+    > .toright > p.programming
+        margin: 1rem 0 1rem 0 !important
+
+    > .toleft > img,
+    > .toright > img
+        max-width: 80%
