@@ -62,7 +62,7 @@ Die genutzten Kurse lassen sich je als Einführung in den entsprechenden Themenb
     </div>
     <div class="toright">
     	<a href="https://www.udacity.com/bertelsmann-data-scholarships">Bertelsmann Data Science Challenge Scholarship Course</a>
-        <p class="programming">Dreimonatiger <i>Challenge Course</i>, in dem die Grundlagen der Data Science vermittelt wurden. Grundlegende Konzepte aus den drei Bereichen deskriptive Statistik, Python und SQL zur Beschreibung, Erforschung und Visualisierung von bereitgestellten Daten.</p>
+        <p class="programming">Dreimonatiger <i>Challenge Course</i>, in dem die Grundlagen der Data Science vermittelt wurden. Grundlegende Konzepte aus den Bereichen deskriptive Statistik, Python und SQL zur Beschreibung, Erforschung und Visualisierung von bereitgestellten Daten.</p>
 		<progress value="100" max="100">Abgeschlossen</progress>
 		<figcaption class="caption">Abgeschlossen</figcaption>
     </div>
@@ -74,7 +74,7 @@ Die genutzten Kurse lassen sich je als Einführung in den entsprechenden Themenb
     </div>
     <div class="toright">
         <a href="https://cs50.edx.org">CS50: Introduction to Computer Science</a>
-        <p class="programming">Grundkurs in Informatik. Vermittlung der Grundlagen des algorithmischen Denkens und von grundlegenden Konzepten der Informatik (Abstraktion, Datenstrukturen, Softwaretechnik und –sicherheit, Webentwicklung). Einführung in gängige Programmiersprachen (C, Python, SQL sowie HTML/CSS und Javascript).</p>
+        <p class="programming">Einführungskurs in Informatik. Vermittlung der Grundlagen des algorithmischen Denkens und von grundlegenden Konzepten der Informatik (Abstraktion, Datenstrukturen, Softwaretechnik und –sicherheit, Webentwicklung). Einführung in gängige Programmiersprachen (C, Python, SQL sowie HTML/CSS und Javascript).</p>
     	<progress value="1" max="11">In Bearbeitung</progress>
     	<figcaption class="caption">In Bearbeitung</figcaption>
     </div>
@@ -86,7 +86,7 @@ Die genutzten Kurse lassen sich je als Einführung in den entsprechenden Themenb
     </div>
     <div class="toleft">
         <a href="https://the-javascripting-english-major.org/v1/contents">The JavaScripting English Major</a>
-        <p class="programming">Anwendungsorientierter Kurs in JavaScript für <i>English Majors</i> und andere Geisteswissenschafter von <a href="https://moacir.com/" >Moacir P. de Sá Pereira</a>. Hilfreich insbesondere für die Vermittlung geisteswissenschaftler Thesen und Ergebnisse im digitalen Raum.</p>
+        <p class="programming">Anwendungsorientierter Kurs in JavaScript für <i>English Majors</i> und andere Geisteswissenschafter von <a href="https://moacir.com/" >Moacir P. de Sá Pereira</a>. Hilfreich insbesondere für die interaktive Vermittlung und Darstellung von geisteswissenschaftlichen Thesen und Ergebnissen im digitalen Raum.</p>
     	<progress value="5" max="15">In Bearbeitung</progress>
     	<figcaption class="caption">In Bearbeitung</figcaption>
     </div>
@@ -112,7 +112,7 @@ Die genutzten Kurse lassen sich je als Einführung in den entsprechenden Themenb
     </div>
     <div class="toright">
     	<a href="https://www.coursera.org/learn/digital-humanities">Sprachtechnologie in den Digital Humanities</a>
-        <p class="programming">Grundbegriffe und Konzepte der Korpuslinguistik:  Worthäufigkeiten, Kollokationen, N-Gramme. Zudem Einheiten zur manuellen und automatischen Korpusannotation (Named-entity recognition, Part-of-Speech-Tagging und Lemmatisierung).</p>
+        <p class="programming">Grundbegriffe und Konzepte der Korpuslinguistik:  Worthäufigkeiten, Kollokationen, N-Gramme. Zudem Lerneinheiten zur manuellen und automatischen Korpusannotation (Named-entity recognition (NER), Part-of-Speech-Tagging (POS) und Lemmatisierung).</p>
     	<progress value="100" max="100">Abgeschlossen</progress>
     	<figcaption class="caption">Abgeschlossen</figcaption>
     </div>
@@ -124,7 +124,7 @@ Die genutzten Kurse lassen sich je als Einführung in den entsprechenden Themenb
     </div>
     <div class="toright">
     	<a href="https://www.futurelearn.com/courses/corpus-linguistics">Corpus Linguistics: Method, Analysis, Interpretation</a>
-        <p class="programming">Diskursanalyse auf Basis eines Korpus, Soziolinguistik, Grundlagen der Korpuskonstruktion, Methoden: Konkordanzanalyse und Kollokationen.</p>
+        <p class="programming">Diskursanalyse auf Basis eines Korpus, Soziolinguistik, Grundlagen der Korpuskonstruktion, Methoden: Konkordanzanalyse und Kollokationen. Arbeit mit dem Tool Lancsbox.</p>
 		<progress value="23" max="100">In Bearbeitung</progress>
 		<figcaption class="caption">In Bearbeitung</figcaption>
     </div>
@@ -175,7 +175,7 @@ Die genutzten Kurse lassen sich je als Einführung in den entsprechenden Themenb
     </div>
     <div class="toright">
     	<a href="https://www.coursera.org/learn/text-mining">Text Mining and Analytics</a>
-        <p class="programming">Techniken und Methoden zur Gewinnung und Analyse von Textdaten (Natural Language Processing), unter anderem Topic Analysis, Text Clustering und Text Categorization.</p>
+        <p class="programming">Techniken und Methoden zur Gewinnung und Analyse von Textdaten (Natural Language Processing), unter anderem Lerneinheiten zu Topic Analysis, Text Clustering und Text Categorization.</p>
     	<progress value="0" max="6">Noch nicht begonnen</progress>
     	<figcaption class="caption">Noch nicht begonnen</figcaption>
     </div>
@@ -186,11 +186,11 @@ Die genutzten Kurse lassen sich je als Einführung in den entsprechenden Themenb
 
 <div class="side-by-side">
     <div class="toleft">
-        <img class="image" src="https://i2.wp.com/blog.udacity.com/wp-content/uploads/2018/10/PyTorch-Scholarship-Challenge-from-Facebook-Udacity.png" alt="PyTorch Scholarship Challenge">
+        <img class="image" src="https://s3-us-west-2.amazonaws.com/udacity-email/pytorch-acceptance-badge.png" alt="PyTorch Scholarship Challenge">
     </div>
     <div class="toright">
     	<a href="https://www.udacity.com/facebook-pytorch-scholarship">PyTorch Scholarship Challenge</a>
-        <p class="programming">Zweimonatiger Challenge Course, in dem die Grundlagen des Deep Learning mit der Python-Programmbibliothek <a href="https://pytorch.org/">PyTorch</a> vermittelt werden. Konstruktion, Training und Anwendung von Machine-Learning-Algorithmen.</p>
+        <p class="programming">Zweimonatiger <i>Challenge Course</i>, in dem die Grundlagen des Deep Learning mit der Python-Programmbibliothek <a href="https://pytorch.org/">PyTorch</a> vermittelt werden. Konstruktion, Training und Anwendung von Machine-Learning-Algorithmen.</p>
     	<progress value="9" max="100">In Bearbeitung</progress>
     	<figcaption class="caption">In Bearbeitung</figcaption>
     </div>
