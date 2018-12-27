@@ -1,0 +1,67 @@
+---
+title: Kontakt
+layout: page
+sitemap: false
+lang: de
+ref: contact
+---
+
+# Kontakt
+Wenn du mit mir in Kontakt treten willst, dann schreibe mir gerne an die Adresse m [dot] haeussermann [at] gmail [dot] com.
+Falls du deine E-Mail verschlüsseln möchtest – gute Gründe dafür zeigt die Website [Virtual Privacy](https://virtual-privacy.org/) auf – benutze den folgenden PGP-Key:
+
+{% highlight raw %}
+-----BEGIN PGP PUBLIC KEY BLOCK-----
+Comment: GPGTools - http://gpgtools.org
+
+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
+CGFjQR4ZMfZH4oYvVwu08YJWpWIgeA==
+=XSPZ
+-----END PGP PUBLIC KEY BLOCK-----
+{% endhighlight raw %}

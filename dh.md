@@ -1,6 +1,8 @@
 ---
 title: Digital Humanities
 layout: page
+lang: de
+ref: dh
 ---
 
 # Digital Humanities Curriculum
