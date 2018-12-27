@@ -1,12 +1,12 @@
 ---
 title: Blog
 layout: page
-lang: de
+lang: en
 ref: blog
 ---
 
 <section class="list">
-		{% assign posts=site.posts | where:"lang", page.lang | where:"category", "blog" %}
+	{% assign posts=site.posts | where:"lang", page.lang | where:"category", "blog" %}
 	{% if site.posts.size == 0 %}
 		<p class="text-center">Nothing published yet!</p>
 	{% elsif site.paginate %}
