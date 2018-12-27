@@ -2,11 +2,12 @@
 title: Kontakt
 layout: page
 sitemap: false
+lang: en
+ref: contact
 ---
 
-# Kontakt
-Wenn du mit mir in Kontakt treten willst, dann schreibe mir gerne an die Adresse m [dot] haeussermann [at] gmail [dot] com.
-Falls du deine E-Mail verschlüsseln möchtest – gute Gründe dafür zeigt die Website [Virtual Privacy](https://virtual-privacy.org/) auf – benutze den folgenden PGP-Key:
+# Contact
+If you want to write me, please do so by sending a mail at m [dot] haeussermann [at] gmail [dot] com. I would be delighted to hear from you, even more so if you decide to encrypt your mail using the following public key.
 
 {% highlight raw %}
 -----BEGIN PGP PUBLIC KEY BLOCK-----
