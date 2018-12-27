@@ -1,5 +1,7 @@
 .nav,
-.nav-home
+.nav-home,
+.nav-language,
+.nav-language-home    
     > .list
         list-style: none
         margin: 0
@@ -24,8 +26,52 @@
         padding: 0 13px 0
 
         > .item > .link
+            display: inline-block
             font-size: 1.4rem
             padding: 20px 10px
+
+            @media #{$mobile}
+                font-size: 1.6rem
+                padding: 15px 1.5px
+
+            @media #{$tablet}
+                font-size: 2rem
+                padding: 20px 5px 0px 20px
+                font-weight: bold
+
+.nav-language
+    position: absolute
+    left: 0
+    top: 0
+
+    > .list
+        padding: 0 13px 0
+
+        > .item > .link
+            display: inline-block
+            font-size: 1.4rem
+            padding: 20px 5px
+
+            @media #{$mobile}
+                font-size: 1.6rem
+                padding: 15px 1px
+
+            @media #{$tablet}
+                font-size: 2rem
+                padding: 20px 5px 0px 20px
+                font-weight: bold
+
+
+.nav-language-home
+    margin-top: 12px
+    text-align: center
+
+    > .list
+        padding: 0 13px 0
+
+        > .item > .link
+            font-size: 1.6rem
+            padding: 5px 5px
 
 .nav-home
     margin-top: 40px

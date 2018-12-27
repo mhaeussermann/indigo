@@ -15,8 +15,9 @@ picture: 'assets/images/profile.jpg'
 resume: false
 resume-external: true
 resume-url: https://google.com/?q=my+resume
+resume-de-url: 
 
-your url: http://mhaeussermann.github.io
+your url: http://manuelhaeussermann.de
 
 permalink: /:title/
 
@@ -71,8 +72,8 @@ width: normal
 # paginate_path: "blog/:num/"
 
 # if you don't need projects, comment the *projects* configs below
-# projects: true
-dighum: true
+projects: true
+dh: true
 
 # if you don't need "about" or "blog", comment them out below
 about: true

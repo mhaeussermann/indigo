@@ -1,48 +1,85 @@
-<nav class="{% if page.title == "Home" %}nav-home{% else %}nav{% endif %}">
+<nav class="{% if page.ref == "index" %}nav-home{% else %}nav{% endif %}">
     <ul class="list">
-        {% if page.title != "Home" %}
-            <li class="item">
-                <a class="link" href="{{ site.url }}/">Home</a>
-            </li>
-        {% endif %}
-
-        {% if site.blog == true %}
-            {% if page.title != "Blog" %}
-                <li class="item">
-                    <a class="link" href="{{ site.url }}/blog">Blog</a>
-                </li>
+        {% if page.ref != "index" %}
+        <li class="item">
+            {% if page.lang == "de" %}
+            <a class="link" href="{{ site.url }}/">Home</a>
             {% endif %}
-        {% endif %}
-
-        {% if site.projects == true %}
-            {% if page.title != "Projects" %}
-                <li class="item">
-                    <a class="link" href="{{ site.url }}/projects">Projekte</a>
-                </li>
+            {% if page.lang == "en" %}
+            <a class="link" href="{{ site.url }}/home">Home</a>
             {% endif %}
-        {% endif %}
-
-        {% if site.dighum == true %}
-            {% if page.title != "Digital Humanities" %}
-                <li class="item">
-                    <a class="link" href="{{ site.url }}/dh">Digital Humanities</a>
-                </li>
+        </li>
+        {% endif %} 
+        {% if site.blog == true %} {% if page.ref != "blog" %}
+        <li class="item">
+            {% if page.lang == "de" %}
+            <a class="link" href="{{ site.url }}/blog">Blog</a>
             {% endif %}
-        {% endif %}
-
-
-        {% if site.about == true %}
-            {% if page.title != "About" %}
-                <li class="item">
-                    <a class="link" href="{{ site.url }}/about">Über</a>
-                </li>
+            {% if page.lang == "en" %}
+            <a class="link" href="{{ site.url }}/blog">Blog</a>
             {% endif %}
-        {% endif %}
-
+        </li>
+        {% endif %} {% endif %} 
+        {% if site.projects == true %} {% if page.ref != "projects" %}
+        <li class="item">
+            {% if page.lang == "de" %}
+            <a class="link" href="{{ site.url }}/projekte">Projekte</a>
+            {% endif %}
+            {% if page.lang == "en" %}
+            <a class="link" href="{{ site.url }}/projects">Projects</a>
+            {% endif %}
+        </li>
+        {% endif %} {% endif %} 
+        {% if site.about == true %} {% if page.ref != "about" %}
+        <li class="item">
+            {% if page.lang == "de" %}
+            <a class="link" href="{{ site.url }}/ueber">Über</a>
+            {% endif %}
+            {% if page.lang == "en" %}
+            <a class="link" href="{{ site.url }}/about">About</a>
+            {% endif %}
+        </li>
+        {% endif %} {% endif %}
+        {% if site.dh == true %} {% if page.ref != "dh" %}
+        <li class="item">
+            {% if page.lang == "de" %}
+            <a class="link" href="{{ site.url }}/dh">Digital Humanities</a>
+            {% endif %}
+            {% if page.lang == "en" %}
+            <a class="link" href="{{ site.url }}/dighum">Digital Humanities</a>
+            {% endif %}
+        </li>
+        {% endif %} {% endif %}
         {% if site.resume == true %}
-            <li class="item">
-                <a class="link" href="{% if site.resume-external %}{{ site.resume-url }}{% else %}{{ site.url }}/{{ site.resume-url }}{% endif %}">Résumé</a>
-            </li>
+        <li class="item">
+            {% if page.lang == "de" %}
+            <a class="link" target="_blank" href="{% if site.resume-external %}{{ site.resume-de-url }}{% else %}{{ site.url }}/{{ site.resume-de-url }}{% endif %}">Lebenslauf</a>
+            {% endif %}
+            {% if page.lang == "en" %}
+            <a class="link" target="_blank" href="{% if site.resume-external %}{{ site.resume-url }}{% else %}{{ site.url }}/{{ site.resume-url }}{% endif %}">CV</a>
+            {% endif %}
+        </li>
         {% endif %}
+    </ul>
+</nav>
+
+<hr />
+
+<!-- Language -->
+<nav class="{% if page.ref == "index"  %}nav-language-home{% else %}nav-language{% endif %}">
+    <ul class="list">
+        {% assign posts=site.posts | where:"ref", page.ref | sort: 'lang' %}
+        {% for post in posts %}
+        <li class="item">
+            <a href="{{ post.url }}" class="link">{{ post.lang }}</a>
+        </li>
+        {% endfor %}
+
+        {% assign pages=site.pages | where:"ref", page.ref | sort: 'lang' %}
+        {% for page in pages %}
+        <li class="item">
+            <a href="{{ page.url }}" class="link">{{ page.lang }}</a>
+        </li>
+        {% endfor %}
     </ul>
 </nav>

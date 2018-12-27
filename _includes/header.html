@@ -1,9 +1,11 @@
 {% if page.title == "Home"
    or page.title == "Blog"
    or page.title == "Projects"
+   or page.title == "Projekte"
    or page.title == "Tags"
-%}{% assign showHeader = true %}{% endif %}
-
+   or page.title == "Kategorien"
+%}
+{% assign showHeader = true %}{% endif %}
 {% if showHeader == true %}
     <header class="header-home {% if site.animation %}animated{% endif %}">
         {% if site.about %}
@@ -21,6 +23,6 @@
 
         {% include social-links.html %}
     </header>
-{% endif %}
+{% endif %} 
 
 {% include nav.html %}
