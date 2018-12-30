@@ -89,7 +89,7 @@ Die genutzten Kurse lassen sich je als Einführung in den entsprechenden Themenb
     <div class="toleft">
         <a href="https://the-javascripting-english-major.org/v1/contents">The JavaScripting English Major</a>
         <p class="programming">Anwendungsorientierter Kurs in JavaScript für <i>English Majors</i> und andere Geisteswissenschafter von <a href="https://moacir.com/" >Moacir P. de Sá Pereira</a>. Hilfreich insbesondere für die interaktive Vermittlung und Darstellung von geisteswissenschaftlichen Thesen und Ergebnissen im digitalen Raum.</p>
-    	<progress value="5" max="15">In Bearbeitung</progress>
+    	<progress value="10" max="15">In Bearbeitung</progress>
     	<figcaption class="caption">In Bearbeitung</figcaption>
     </div>
 </div>
@@ -193,7 +193,7 @@ Die genutzten Kurse lassen sich je als Einführung in den entsprechenden Themenb
     <div class="toright">
     	<a href="https://www.udacity.com/facebook-pytorch-scholarship">PyTorch Scholarship Challenge</a>
         <p class="programming">Zweimonatiger <i>Challenge Course</i>, in dem die Grundlagen des Deep Learning mit der Python-Programmbibliothek <a href="https://pytorch.org/">PyTorch</a> vermittelt werden. Konstruktion, Training und Anwendung von Machine-Learning-Algorithmen.</p>
-    	<progress value="9" max="100">In Bearbeitung</progress>
+    	<progress value="15" max="100">In Bearbeitung</progress>
     	<figcaption class="caption">In Bearbeitung</figcaption>
     </div>
 </div>
