@@ -19,7 +19,12 @@
         {% endif %}
 
         <h1 class="title">{{ site.name }}</h1>
+        {% if page.lang == "de" %}
         <h2 class="description">{{ site.bio }}</h2>
+        {% endif %}
+        {% if page.lang == "en" %}
+        <h2 class="description">{{ site.bio-en }}</h2>
+        {% endif %}
 
         {% include social-links.html %}
     </header>
