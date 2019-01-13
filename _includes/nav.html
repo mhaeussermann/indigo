@@ -63,7 +63,9 @@
     </ul>
 </nav>
 
+{% if page.ref == "index" %}
 <hr />
+{% endif %}
 
 <!-- Language -->
 <nav class="{% if page.ref == "index"  %}nav-language-home{% else %}nav-language{% endif %}">
