@@ -30,16 +30,6 @@
             {% endif %}
         </li>
         {% endif %} {% endif %} 
-        {% if site.about == true %} {% if page.ref != "about" %}
-        <li class="item">
-            {% if page.lang == "de" %}
-            <a class="link" href="{{ site.url }}/ueber">Über</a>
-            {% endif %}
-            {% if page.lang == "en" %}
-            <a class="link" href="{{ site.url }}/about">About</a>
-            {% endif %}
-        </li>
-        {% endif %} {% endif %}
         {% if site.dh == true %} {% if page.ref != "dh" %}
         <li class="item">
             {% if page.lang == "de" %}
@@ -47,6 +37,16 @@
             {% endif %}
             {% if page.lang == "en" %}
             <a class="link" href="{{ site.url }}/dighum">Digital Humanities</a>
+            {% endif %}
+        </li>
+        {% endif %} {% endif %}
+        {% if site.about == true %} {% if page.ref != "about" %}
+        <li class="item">
+            {% if page.lang == "de" %}
+            <a class="link" href="{{ site.url }}/ueber">Über</a>
+            {% endif %}
+            {% if page.lang == "en" %}
+            <a class="link" href="{{ site.url }}/about">About</a>
             {% endif %}
         </li>
         {% endif %} {% endif %}
