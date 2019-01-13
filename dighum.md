@@ -6,53 +6,50 @@ ref: dh
 ---
 
 # Digital Humanities Curriculum
-Inspiriert durch David Venturis ambitioniertes Vorhaben, aus online
-verfügbaren Kursen und Ressourcen [sein eigenes Data-Science-Curriculum](http://davidventuri.com/data-science-masters/) zusammenzustellen und damit selbstbestimmt seine Interessen und Ziele zu verfolgen, habe ich beschlossen, mich in ähnlicher Weise an das Feld der Digital Humanities heranzuwagen. 
+Inspired by a project by David Venturi which aimed at creating [his own Data Science Curriculum](http://davidventuri.com/data-science-masters/) using only courses and resources available online, I decided to do something similar, but instead of focussing on Data Science, my goal is to get a better grasp of the field of Digital Humanities.
 
-## Warum?
-Begründet liegt diese Entscheidung in der Erfahrung, die ich während meines ›traditionellen‹ literaturwissenschaftlichen Studiums gemacht habe. Mehrmals sind mir die Digital Humanities in dieser Zeit begegnet, die Auseinandersetzung mit dem Feld verblieb jedoch durchgängig auf einer abstrakten Ebene. Deswegen durchdrang ich die Methodiken und Ansätze, die in diesem Kontext vorgestellt wurden, im Grunde kaum, wodurch ich nicht einmal in die Nähe dessen kam, was man als _code literacy_ (Vgl. [Rieder und Röhle 2012](https://doi.org/10.1057/9780230371934_4), S. 76) bezeichnen kann: ein kritisches Verständnis der Techniken und Methoden der Digital Humanities, ein kritisches Verständnis von Coding in den Geisteswissenschaften.
+## Why?
+I took this decision because of an experience I made during my ›traditional‹ course of studies. I got in contact with the Digital Humanities a few times in this time, but never in a way that allowed for a deep and thorough understanding. For this reason, I remained fascinated but at the same time rather ignorant of the methodologies and concepts utilised by the practitioners of the discipline. I didn't even come close to what one could call _code literacy_ (Cf. [Rieder und Röhle 2012](https://doi.org/10.1057/9780230371934_4), p. 76): a critical understanding of the techniques and methods used in the Digital Humanities, a critical understanding of what coding means in the humanities.
 
-Zugleich habe ich in Diskussionen mit meinen ›traditionell‹ geisteswissenschaftlichen Kommilitonen immer wieder festgestellt, dass ein gewisses Unbehagen gegenüber den Digital Humanities herrscht, dass sich an den informatischen Anteilen des Bereichs festzumachen scheint, jedoch nie genau spezifiert werden konnte. Offensichtlich sind Monografien und Paper aus den Digital Humanities für ›traditionelle‹ Geisteswissenschaftler häufig irritierend, herrscht doch oft eine ganz andere Schreibweise vor, die mit anderen Argumentationsweisen verbunden ist, als sie in ›klassischen‹ geisteswissenschaftliche Forschungsarbeiten eingesetzt werden. Am deutlichsten zeigt sich diese Teilung in der Beweisführung mit numerischen Daten und graphischen Repräsentationen. (Vgl. zur relativen Inkommensurabilität auch [Ramsay 2003](https://doi.org/10.1093/llc/18.2.167)). 
+At the same time, I noticed in discussions with ›traditionally‹ oriented classmates that there is some sort of discontent when it comes to the Digital Humanities. This discontent was of a rather vague nature, but for most it just didn't seem necessary to bring informatics into the mix, to change learned ways of tackling problems. Evidently, books and papers written by academics in the Digital Humanities are oftentimes irritating to read when approached by a more ›traditional‹ scholar. Not only is the way of writing significantly different, the form and structure of arguments also seem to differ substantially. The most obvious marker of this is the use of numerical data and graphic representations (Cf. topic of relative incommensurability [Ramsay 2003](https://doi.org/10.1093/llc/18.2.167)).
 
-## Der Traum einer transdisziplinären Methodik der Geisteswissenschaften
-Eine Annahme, die häufig mit den Digital Humanities verbunden ist, ist die Hoffnung auf einen stärkeren trans- und interdisziplinären Austausch innerhalb der Geisteswissenschaften, ohne dabei die Besonderheiten der einzelnen Fachkulturen zu verlieren. Diese Hoffnung ist nicht unbegründet: Der Einsatz digitaler Methoden ist nicht auf einen Anwendungsfall oder Disziplin beschränkt und es ist bereits zu diesem Zeitpunkt in der Entwicklung ersichtlich, dass die Digital Humanities es systematisch wie konzeptuell vermögen, lange bestehende geisteswissenschaftsinterne Grenzen zu überschreiten (Vgl. [Meister 2012](https://www.jstor.org/stable/41636598), S. 84). Ob jedoch die Reformulierung geisteswissenschaftlicher Probleme in der Form abstrakten Codes einer neuen _lingua franca_ gleichkommt, die notwendigerweise beherrscht werden muss, um in Zukunft geisteswissenschaftliche Forschung zu betreiben (Vgl. Ebd., S. 83), bleibt abzuwarten.
+## The dream of a transdisciplinary method in the humanities
+Oftentimes the hope that gets placed in the Digital Humanities is the prospect of a stronger trans- and interdisciplinary communication within the humanities without homogenising their disciplinary diversity. This hope is not without its reasons: The use of digital methods is not restricted to one use case or discipline and it is already discernible at this point that the Digital Humanities have the potential to transgress boundaries within the humanities conceptually as well as systematically (Cf. [Meister 2012](https://www.jstor.org/stable/41636598), p. 84). If, on the other hand, the reformulation of humanist problems into abstract code will result in the rise of a new _lingua franca_ that has to be spoken by every scholar in the humanities in the future as Meister seems to propose (Cf. ibid, p. 83), remains to be seen.
 
-Meines Erachtens wäre es verfehlt, alle geisteswissenschaftliche Forschung unter die Vorzeichen der Informatik zu stellen. Eine solche Entwicklung würde gerade die produktiven Ausdifferenzierungen der einzelnen Disziplinen, die zumeist einer langen Tradition entspringen, negieren. Zudem scheint es kaum zielführend, alle GeisteswissenschaftlerInnen zu InformatikerInnen umzubilden. Eine Annäherung auf Basis digitaler Methoden halte ich trotzdem für möglich. Die Perspektiven und Möglichkeiten im Bereich der Digital Humanities sind immer noch im Anfangsstadium, es geht entsprechend darum, erst einmal auszuprobieren, was möglich ist und was nicht funktioniert.
+In my opinion, it would be misguided to demand all kinds of humanities research to conform to an informatics rule set. Such a development would be detrimental considering the productive specialisations of the individual disciplines which have their own histories. Convergence on the basis of digital methods, however, seems possible. The perspectives and possibilities in the area of Digital Humanities are still in their infant state which means that experimentation about what works and what doesn't is still important.
 
-## Entwicklungen und Positionen der Digital Humanities
-Seit meinem Studienbeginn im Jahr 2012 hat die Professionalisierung (und auch [Professoralisierung](https://dhd-blog.org/?p=6174)) der Digital Humanities immer weiter zugenommen. Seit 2013
-gibt es den Verband [Digital Humanities im deutschsprachigen Raum](https://dig-hum.de/ueber-dhd) und es kommt einem vor, als werde in jedem Jahr ein neuer Bachelor- oder Masterstudiengang
-in den Digital Humanities geschaffen. Trotzdem steht die Grundsatzfrage, was Digital Humanities ausmacht oder ausmachen soll, weiter im Mittelpunkt vieler fachinterner Diskussionen. Es seien daher an dieser Stelle einige Positionen und Definitionsversuche zu nennen.
+## Developments and positions in the Digital Humanities
+Since I started studying in 2012 the professionalisation (and ›[professoralisation](https://dhd-blog.org/?p=6174)‹) of the Digital Humanities has steadily increased. In 2013 the organisation [Digital Humanities im deutschsprachigen Raum](https://dig-hum.de/ueber-dhd) was established and it seems like there is a new Bachelor or Master course in Digital Humanities established each year. Still the main question about what defines or should define Digital Humanities remains at the centre of many disciplinary discussions. For this reason, the following paragraphs point out some of the more prominent positions and definitions.
 
-Als einer der wichtigsten Wortführer und -begründer der jungen Disziplin gilt Franco Moretti, der  2010 das [Stanford Literary Lab](https://litlab.stanford.edu/) gründete und bereits zehn Jahre zuvor den Begriff des _Distant Reading_ prägte, den er fast schon als Kampfbegriff gegen die ›traditionellen‹ Literaturwissenschaften ins Feld führte. Unter _Distant Reading_ versteht Moretti den Fokus auf literarische Einheiten, die entweder deutlich größer (Genre- und Literatursysteme) oder deutlich kleiner (Themen und Tropen) sind als der einzelne Text und die deswegen, so Moretti, nur durch Analysen adäquat erfasst und beschrieben werden können, die sich nicht auf einzelne Texte fokussieren, sondern auf große Textmengen (Vgl. [Moretti 2000](https://newleftreview.org/II/1/franco-moretti-conjectures-on-world-literature)). Sein polemischer Appell zu Anfang des neuen Jahrtausends lautete: "[W]e know how to read texts, now let’s learn how not to read them." (Ebd., S. 57).
+Franco Moretti is considered to be one of the most important emissaries of the discipline. Ten years before he established the [Stanford Literary Lab](https://litlab.stanford.edu/) in 2010, he had coined the term _Distant Reading_ which he used almost like a battle cry against ›traditional‹ literature criticism. Moretti defines _Distant Reading_ as the »focus on units that are much smaller or much larger than the text: devices, themes, tropes — or genres and systems« ([Moretti 2000](https://newleftreview.org/II/1/franco-moretti-conjectures-on-world-literature), p. 57) which is why, he argued, these units could only be adequately captured and described using large amounts of text. His plea to literary criticism was a polemical one: "[W]e know how to read texts, now let’s learn how _not_ to read them." (Ibid.).
 
-In den fast zwei Dekaden seit dieser Forderung fand eine Konsolidierung statt, was zu einem mittlerweile deutlich gesetzteren Ton führte. Die Digital Humanities sind im akademischen Alltag angekommen. Eine breite Definition legen etwa [Jannidis et. al (2017)](https://doi.org/10.1007/978-3-476-05446-3) vor. Die Autoren beschreiben das Feld als »Summe aller Versuche, die Informationstechniken auf den Gegenstandsbereich der Geisteswissenschaften anzuwenden« (S. 13). Eine Darstellung, die diese Überschneidung zwischen Geisteswissenschaften und Informatik verdeutlicht, findet sich in Patrick Sahles Paper _[DH Studieren! Auf dem Weg zu einem Kern- und Referenzcurriculum (2013)](http://cceh.uni-koeln.de/files/DARIAH-M2-3-3_DH-programs_1_2_0.pdf)_:
+During the almost two decades since this plea, a form of consolidation took place, leading to a more grounded tone of the discussion. The Digital Humanities have arrived in the academic mainstream. This is also perceptible in the broad definition of the discipline by [Jannidis et. al (2017)](https://doi.org/10.1007/978-3-476-05446-3). The authors describe the field as the »the sum of all attempts to utilise informatics in the context of humanities research« (p. 13). A figure that depicts this intersection can be found in Patrick Sahle's Paper _[DH Studieren! Auf dem Weg zu einem Kern- und Referenzcurriculum (2013)](http://cceh.uni-koeln.de/files/DARIAH-M2-3-3_DH-programs_1_2_0.pdf)_:
 
-![Abbildung 1]({{site.url}}{{site.baseurl}}/assets/images/abb1.png)
-Sahle (2013), S. 27
+![Figure 1]({{site.url}}{{site.baseurl}}/assets/images/abb1.png)
+Sahle (2013), p. 27.
 {: style="color:gray; font-size: 80%; text-align: center;"}
 
-Insgesamt lassen sich momentan (mindestens) vier Hauptbereiche der Digital Humanities beschreiben (Vgl. Jannidis et. al. 2017, S. 13):
-1. Digitale Arbeit mit Texten, beispielsweise Text Mining, Topic Modeling, Stilometrie, Editionsphilologie, Korpuslinguistik.
-2. Digitale Arbeit mit nicht-textuellen Medien, beispielsweise die computergestützte Analyse von Bildern, Musik oder Filmen.
-3. Digitale Aufarbeitung von Quellenmaterial für Datenbanken und andere Anwendungen.
-4. Geisteswissenschaftliche Untersuchung neuer(er) Technologien, etwa hinsichtlich der Frage, inwiefern moderne Medien unsere Gesellschaft verändern.
+One can, therefore, differentiate at least four different main areas of the Digital Humanities at this point (Cf. Jannidis et. al. 2017, p. 13):
+1. Natural language processing, e.g. Text Mining, Topic Modeling, Stylometry, Corpus Linguistics.
+2. Computer-assisted analysis of non-textual media like images, music and film.
+3. Digital processing of source material for databases and other use cases.
+4. Humanities research into new technologies, e.g. the question of the extent to which modern media change our society.
 
-## Herangehensweise und Zielstellung
-Besonders interessiert bin ich an dem ersten und dem vierten Punkt. Das Curriculum ist jedoch hauptsächlich auf das Erlernen des ersten Punkts ausgerichtet, es soll Grundkenntnisse in Python vermitteln und mit grundlegenden Ansätzen und Methodiken der Korpuslinguistik, sowie aus den Bereichen des Natural Language Processing (NLP) und Machine Learning ergänzen. Die Kurse werden von unterschiedlichen Universitäten beziehungsweise Plattformen angeboten, teilweise sind Inhalte gedoppelt, was jedoch meines Erachtens didaktisch durchaus hilfreich ist. Ich werde im Blog meinen Fortschritt dokumentieren und zudem versuchen, weitere hilfreiche Ressourcen zu finden und vorzustellen. Der Balken zeigt jeweils an, wie weit ich im Kurs fortgeschritten bin.
+## Approach and Goals
+I'm particularly interested in the first and the last point of this list. The curriculum, however, focusses on learning skills related to the first point, it is supposed to facilitate basic knowledge in Python supplemented by a knowledge of basic concepts and methods of corpus linguistics, the areas of Natural Language Processing (NLP) and Machine Learning. The courses are offered by different universities as well as platforms, partly leading to redundancies which are, in my opinion, helpful on a didactic level. I will document my progress in the blog and also try to find and present further helpful resources. The bars indicate how far I have progressed in the respective course.
 
-Die genutzten Kurse lassen sich je als Einführung in den entsprechenden Themenbereich verstehen, sei es im Umgang mit Python oder hinsichtlich spezieller Anwendungsfälle digitaler Methodiken zum Umgang mit großen Text– beziehungsweise Datenmengen. Es geht mir demanch nicht darum, vollumfängliche informatische Kenntnisse anzueignen, sondern eine Befähigung zur selbstständigen Konzeption und Anwendung digitaler Methoden für die Überprüfung und Beantwortung eigener Fragestellungen zu erlangen nebst der Fähigkeit zur kritischen Beurteilung eben jener Techniken und Methoden.
+The courses used can each be understood as an introduction to the relevant subject area, be it in dealing with Python or with regard to special applications of digital methods for dealing with large amounts of text/data. My aim is not to acquire full informatics knowledge, but instead to enable myself to independently design and apply digital methods for checking and answering own research questions, as well as the ability to critically evaluate those very techniques and methods.
 
 <div class="breaker"></div>
 
-<h1 text-align="center">Grundlagenkurse</h1>
+<h1 text-align="center">Introduction</h1>
 <div class="side-by-side">
     <div class="toright">
         <img class="image" src="{{ site.url }}{{ "/assets/images/oopcourse.png" }}" alt="Programming Foundations with Python">
     </div>
     <div class="toright">
     	<a href="https://eu.udacity.com/course/programming-foundations-with-python--ud036">Programming Foundations with Python</a>
-        <p class="programming">Einführung in die objektorientierte Programmierung mit Python mit grundlegenden Einheiten zur Struktur und den Modulen der Standardbibliothek sowie zu Konzept und Anwendung von Funktionen und Klassen. Verschiedene Projekte zum anwendungsorientierten Erlernen  algorithmischer Problemlösung.</p>
+        <p class="programming">Introduction to object-oriented programming with Python with basic units for the structure and modules of the standard library as well as for the concept and application of functions and classes. Various projects for application-oriented learning of algorithmic problem solving.</p>
 		<progress value="100" max="100">Abgeschlossen</progress>
 		<figcaption class="caption">Abgeschlossen</figcaption>
     </div>
@@ -64,9 +61,9 @@ Die genutzten Kurse lassen sich je als Einführung in den entsprechenden Themenb
     </div>
     <div class="toright">
     	<a href="https://www.udacity.com/bertelsmann-data-scholarships">Bertelsmann Data Science Challenge Scholarship Course</a>
-        <p class="programming">Dreimonatiger <i>Challenge Course</i>, in dem die Grundlagen der Data Science vermittelt wurden. Grundlegende Konzepte aus den Bereichen deskriptive Statistik, Python und SQL zur Beschreibung, Erforschung und Visualisierung von bereitgestellten Daten.</p>
-		<progress value="100" max="100">Abgeschlossen</progress>
-		<figcaption class="caption">Abgeschlossen</figcaption>
+        <p class="programming">Three-month <i>Challenge Course</i> in which the basics of data science were taught. Basic concepts from the areas of descriptive statistics, Python and SQL necessary for the description, research and visualization of given data.</p>
+		<progress value="100" max="100">Done</progress>
+		<figcaption class="caption">Done</figcaption>
     </div>
 </div>
 
@@ -76,9 +73,9 @@ Die genutzten Kurse lassen sich je als Einführung in den entsprechenden Themenb
     </div>
     <div class="toright">
         <a href="https://cs50.edx.org">CS50: Introduction to Computer Science</a>
-        <p class="programming">Einführungskurs in Informatik. Vermittlung der Grundlagen des algorithmischen Denkens und von grundlegenden Konzepten der Informatik (Abstraktion, Datenstrukturen, Softwaretechnik und –sicherheit, Webentwicklung). Einführung in gängige Programmiersprachen (C, Python, SQL sowie HTML/CSS und Javascript).</p>
-    	<progress value="1" max="11">In Bearbeitung</progress>
-    	<figcaption class="caption">In Bearbeitung</figcaption>
+        <p class="programming">Introductory course in computer science. Introduction to the basics of algorithmic thinking and basic concepts of computer science (abstraction, data structures, software engineering and security, web development). Introduction to common programming languages like C, Python, SQL as well as HTML/CSS and Javascript.</p>
+    	<progress value="1" max="11">In process</progress>
+    	<figcaption class="caption">In process</figcaption>
     </div>
 </div>
 
@@ -88,9 +85,9 @@ Die genutzten Kurse lassen sich je als Einführung in den entsprechenden Themenb
     </div>
     <div class="toleft">
         <a href="https://the-javascripting-english-major.org/v1/contents">The JavaScripting English Major</a>
-        <p class="programming">Anwendungsorientierter Kurs in JavaScript für <i>English Majors</i> und andere Geisteswissenschafter von <a href="https://moacir.com/" >Moacir P. de Sá Pereira</a>. Hilfreich insbesondere für die interaktive Vermittlung und Darstellung von geisteswissenschaftlichen Thesen und Ergebnissen im digitalen Raum.</p>
-    	<progress value="5" max="15">In Bearbeitung</progress>
-    	<figcaption class="caption">In Bearbeitung</figcaption>
+        <p class="programming">Application-oriented course in JavaScript for <i>English Majors</i> and other humanists from <a href="https://moacir.com/" >Moacir P. de Sá Pereira</a>. Especially helpful for the interactive mediation and presentation of theories and results in the humanities for the digital space.</p>
+    	<progress value="5" max="15">In process</progress>
+    	<figcaption class="caption">In process</figcaption>
     </div>
 </div>
 
@@ -107,16 +104,16 @@ Die genutzten Kurse lassen sich je als Einführung in den entsprechenden Themenb
 </div> -->
 
 ---
-<h1 text-align="center">Korpuslinguistik</h1>
+<h1 text-align="center">Corpus linguistics</h1>
 <div class="side-by-side">
     <div class="toleft">
         <img class="image" src="https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/52/9974b07ed211e7a70247c29493f328/MOOC_Sprachtechnologie-Digital-Humanities_Coursera-Header_1200x1200.jpg" alt="Sprachtechnologie in den Digital Humanities">
     </div>
     <div class="toright">
     	<a href="https://www.coursera.org/learn/digital-humanities">Sprachtechnologie in den Digital Humanities</a>
-        <p class="programming">Grundbegriffe und Konzepte der Korpuslinguistik:  Worthäufigkeiten, Kollokationen, N-Gramme. Zudem Lerneinheiten zur manuellen und automatischen Korpusannotation (Named-entity recognition (NER), Part-of-Speech-Tagging (POS) und Lemmatisierung).</p>
-    	<progress value="100" max="100">Abgeschlossen</progress>
-    	<figcaption class="caption">Abgeschlossen</figcaption>
+        <p class="programming">Basic terms and concepts of corpus linguistics: word frequencies, collocations, N-grams. In addition, learning units for manual and automatic corpus annotation (Named-entity recognition (NER), Part-of-Speech-Tagging (POS) and Lemmatization).</p>
+    	<progress value="100" max="100">Done</progress>
+    	<figcaption class="caption">Done</figcaption>
     </div>
 </div>
 
@@ -126,9 +123,9 @@ Die genutzten Kurse lassen sich je als Einführung in den entsprechenden Themenb
     </div>
     <div class="toright">
     	<a href="https://www.futurelearn.com/courses/corpus-linguistics">Corpus Linguistics: Method, Analysis, Interpretation</a>
-        <p class="programming">Diskursanalyse auf Basis eines Korpus, Soziolinguistik, Grundlagen der Korpuskonstruktion, Methoden: Konkordanzanalyse und Kollokationen. Arbeit mit dem Tool Lancsbox.</p>
-		<progress value="23" max="100">In Bearbeitung</progress>
-		<figcaption class="caption">In Bearbeitung</figcaption>
+        <p class="programming">Discourse analysis based on a corpus, sociolinguistics, basics of corpus construction, methods: concordance analysis and collocations. Working with the tool Lancsbox.</p>
+		<progress value="23" max="100">In progress</progress>
+		<figcaption class="caption">In progress</figcaption>
     </div>
 </div>
 
@@ -165,9 +162,9 @@ Die genutzten Kurse lassen sich je als Einführung in den entsprechenden Themenb
     </div>
     <div class="toright">
     	<a href="https://github.com/cltl/python-for-text-analysis">Python for Text Analysis</a>
-        <p class="programming">Einführung in die Verwendung von Python für Textanalysen des Computational Lexicology and & Terminology Lab der Vrije Universiteit Amsterdam. Ergänzt durch das Arbeitsbuch <i><a href="https://github.com/walshbr/textanalysiscoursebook">Introduction to Text Analysis</a></i> von Brandon Walsh und Sarah Horowitz.</p>
-		<progress value="6" max="18">In Bearbeitung</progress>
-		<figcaption class="caption">In Bearbeitung</figcaption>
+        <p class="programming">Introduction to the use of Python for text analysis by the Computational Lexicology and & Terminology Lab of the Vrije Universiteit Amsterdam. Supplemented by the workbook <i><a href="https://github.com/walshbr/textanalysiscoursebook">Introduction to Text Analysis</a></i> by Brandon Walsh and Sarah Horowitz.</p>
+		<progress value="6" max="18">In progress</progress>
+		<figcaption class="caption">In progress</figcaption>
     </div>
 </div>
 
@@ -177,9 +174,9 @@ Die genutzten Kurse lassen sich je als Einführung in den entsprechenden Themenb
     </div>
     <div class="toright">
     	<a href="https://www.coursera.org/learn/text-mining">Text Mining and Analytics</a>
-        <p class="programming">Techniken und Methoden zur Gewinnung und Analyse von Textdaten (Natural Language Processing), unter anderem Lerneinheiten zu Topic Analysis, Text Clustering und Text Categorization.</p>
-    	<progress value="0" max="6">Noch nicht begonnen</progress>
-    	<figcaption class="caption">Noch nicht begonnen</figcaption>
+        <p class="programming">Techniques and methods for the extraction and analysis of text data (Natural Language Processing), including learning units on Topic Analysis, Text Clustering and Text Categorization.</p>
+    	<progress value="0" max="6">Not yet started</progress>
+    	<figcaption class="caption">Not yet started</figcaption>
     </div>
 </div>
 
@@ -192,9 +189,9 @@ Die genutzten Kurse lassen sich je als Einführung in den entsprechenden Themenb
     </div>
     <div class="toright">
     	<a href="https://www.udacity.com/facebook-pytorch-scholarship">PyTorch Scholarship Challenge</a>
-        <p class="programming">Zweimonatiger <i>Challenge Course</i>, in dem die Grundlagen des Deep Learning mit der Python-Programmbibliothek <a href="https://pytorch.org/">PyTorch</a> vermittelt werden. Konstruktion, Training und Anwendung von Machine-Learning-Algorithmen.</p>
-    	<progress value="9" max="100">In Bearbeitung</progress>
-    	<figcaption class="caption">In Bearbeitung</figcaption>
+        <p class="programming">Two-month <i>Challenge Course</i>, which teaches the basics of deep learning with the Python program library <a href="https://pytorch.org/">PyTorch</a>. Construction, training and application of machine learning algorithms.</p>
+    	<progress value="15" max="100">In progress</progress>
+    	<figcaption class="caption">In progress</figcaption>
     </div>
 </div>
 
@@ -204,8 +201,8 @@ Die genutzten Kurse lassen sich je als Einführung in den entsprechenden Themenb
     </div>
     <div class="toright">
     	<a href="https://www.edx.org/course/deep-learning-with-python-and-pytorch">Deep Learning with Python and PyTorch</a>
-        <p class="programming">Neben Deep Learning mit PyTorch beinhaltet der Kurs auch Einheiten zum Einsatz von Numpy und Pandas für die Nutzung im Bereich Machine Learning.</p>
-		<progress value="0" max="6">Noch nicht begonnen</progress>
-		<figcaption class="caption">Noch nicht begonnen</figcaption>
+        <p class="programming">In addition to Deep Learning with PyTorch, the course also includes units for the use of Numpy and Pandas for machine learning.</p>
+		<progress value="0" max="6">Not yet started</progress>
+		<figcaption class="caption">Not yet started</figcaption>
     </div>
 </div>
