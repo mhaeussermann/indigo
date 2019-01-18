@@ -4,14 +4,13 @@ layout: page
 lang: de
 ref: blog
 ---
-
 <section class="list">
-		{% assign posts=site.posts | where:"lang", page.lang | where:"category", "blog" %}
-	{% if site.posts.size == 0 %}
-		<p class="text-center">Nothing published yet!</p>
+	{% assign posts=site.posts | where:"lang", page.lang | where:"category", "blog" %}
+	{% if posts.size == 0 %}
+		<p class="text-center">Nichts hier!</p>
 	{% elsif site.paginate %}
-		{% assign posts=site.posts | where:"lang", page.lang %}	
-		{% for post in paginator.posts %}
+		{% assign posts=paginator.posts | where:"lang", page.lang %}	
+		{% for post in posts %}
 			{% if post.category == 'blog' %}
 				{% if post.hidden != true %}
 					{% include blog-post.html %}
@@ -22,7 +21,7 @@ ref: blog
 		{% include pagination.html%}
 	{% else %}
 		{% assign posts=site.posts | where:"lang", page.lang %}	
-		{% for post in site.posts %}
+		{% for post in posts %}
 			{% if post.category == 'blog' %}
 				{% if post.hidden != true %}
 					{% include blog-post.html %}

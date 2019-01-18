@@ -25,7 +25,7 @@
 // import Font 'Mr Dafoe'
 @font-face {
     font-family: Mr Dafoe;
-    src: url("../assets/fonts/MrDafoe-Regular.ttf") format('truetype');
+    src: url("{{ site.url }}/assets/fonts/MrDafoe-Regular.ttf") format('truetype');
     font-weight: normal;
     font-style: normal;
 }
@@ -33,7 +33,7 @@
 // import Font 'Permanent Marker'
 //@font-face {
 //    font-family: Permanent Marker;
-//    src: url("../assets/fonts/PermanentMarker-Regular.ttf") format('truetype');
+//    src: url("{{ site.url }}/assets/fonts/PermanentMarker-Regular.ttf") format('truetype');
 //    font-weight: normal;
 //    font-style: normal;
 //}
@@ -41,28 +41,28 @@
 // import Fon 'Roboto Slab'
 @font-face {
     font-family: Roboto Slab;
-    src: url("../assets/fonts/RobotoSlab-Thin.ttf") format('truetype');
+    src: url("{{ site.url }}/assets/fonts/RobotoSlab-Thin.ttf") format('truetype');
     font-weight: 100;
     font-style: normal;
 }
 
 @font-face {
     font-family: Roboto Slab;
-    src: url("../assets/fonts/RobotoSlab-Light.ttf") format('truetype');
+    src: url("{{ site.url }}/assets/fonts/RobotoSlab-Light.ttf") format('truetype');
     font-weight: 300;
     font-style: normal;
 }
 
 @font-face {
     font-family: Roboto Slab;
-    src: url("../assets/fonts/RobotoSlab-Regular.ttf") format('truetype');
+    src: url("{{ site.url }}/assets/fonts/RobotoSlab-Regular.ttf") format('truetype');
     font-weight: 400;
     font-style: normal;
 }
 
 @font-face {
     font-family: Roboto Slab;
-    src: url("../assets/fonts/RobotoSlab-Bold.ttf") format('truetype');
+    src: url("{{ site.url }}/assets/fonts/RobotoSlab-Bold.ttf") format('truetype');
     font-weight: 700;
     font-style: bold;
 }
