@@ -25,6 +25,10 @@
     right: 0
     top: 0
 
+    @media #{$mobile-small}
+        top: 3rem
+
+.nav    
     > .list
         padding: 0 13px 0
 
@@ -33,6 +37,10 @@
             font-size: 1.4rem
             padding: 20px 10px
 
+            @media #{$mobile-small}
+                font-size: 1.6rem
+                padding: 15px 1.5px
+
             @media #{$mobile}
                 font-size: 1.6rem
                 padding: 15px 1.5px
@@ -40,7 +48,6 @@
             @media #{$tablet}
                 font-size: 2rem
                 padding: 20px 5px 0px 20px
-                font-weight: bold
 
 .nav-language
     position: absolute
@@ -55,6 +62,11 @@
             font-size: 1.4rem
             padding: 20px 5px
 
+            @media #{$mobile-small}
+                font-size: 1.6rem
+                padding: 15px 1px
+                margin-right: 3px
+
             @media #{$mobile}
                 font-size: 1.6rem
                 padding: 15px 1px
@@ -62,7 +74,6 @@
             @media #{$tablet}
                 font-size: 2rem
                 padding: 20px 5px 0px 20px
-                font-weight: bold
 
 
 .nav-language-home
