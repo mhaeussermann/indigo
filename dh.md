@@ -77,7 +77,7 @@ Die genutzten Kurse lassen sich je als Einführung in den entsprechenden Themenb
     <div class="toright">
         <a href="https://cs50.edx.org">CS50: Introduction to Computer Science</a>
         <p class="programming">Einführungskurs in Informatik. Vermittlung der Grundlagen des algorithmischen Denkens und von grundlegenden Konzepten der Informatik (Abstraktion, Datenstrukturen, Softwaretechnik und –sicherheit, Webentwicklung). Einführung in gängige Programmiersprachen (C, Python, SQL sowie HTML/CSS und Javascript).</p>
-    	<progress value="1" max="11">In Bearbeitung</progress>
+    	<progress value="2" max="11">In Bearbeitung</progress>
     	<figcaption class="caption">In Bearbeitung</figcaption>
     </div>
 </div>
@@ -120,18 +120,6 @@ Die genutzten Kurse lassen sich je als Einführung in den entsprechenden Themenb
     </div>
 </div>
 
-<div class="side-by-side">
-    <div class="toleft">
-        <img class="image" src="https://ugc.futurelearn.com/uploads/images/c5/5a/c55a2223-b670-46f2-bed4-b96bed094f5f.svg" alt="Corpus Linguistics: Method, Analysis, Interpretation">
-    </div>
-    <div class="toright">
-    	<a href="https://www.futurelearn.com/courses/corpus-linguistics">Corpus Linguistics: Method, Analysis, Interpretation</a>
-        <p class="programming">Diskursanalyse auf Basis eines Korpus, Soziolinguistik, Grundlagen der Korpuskonstruktion, Methoden: Konkordanzanalyse und Kollokationen. Arbeit mit dem Tool Lancsbox.</p>
-		<progress value="23" max="100">In Bearbeitung</progress>
-		<figcaption class="caption">In Bearbeitung</figcaption>
-    </div>
-</div>
-
 <!--<h1 text-align="center">Social Network Analysis</h1>
 <div class="side-by-side">
     <div class="toleft">
@@ -166,7 +154,7 @@ Die genutzten Kurse lassen sich je als Einführung in den entsprechenden Themenb
     <div class="toright">
     	<a href="https://github.com/cltl/python-for-text-analysis">Python for Text Analysis</a>
         <p class="programming">Einführung in die Verwendung von Python für Textanalysen des Computational Lexicology and & Terminology Lab der Vrije Universiteit Amsterdam. Ergänzt durch das Arbeitsbuch <i><a href="https://github.com/walshbr/textanalysiscoursebook">Introduction to Text Analysis</a></i> von Brandon Walsh und Sarah Horowitz.</p>
-		<progress value="6" max="18">In Bearbeitung</progress>
+		<progress value="12" max="18">In Bearbeitung</progress>
 		<figcaption class="caption">In Bearbeitung</figcaption>
     </div>
 </div>
@@ -193,7 +181,7 @@ Die genutzten Kurse lassen sich je als Einführung in den entsprechenden Themenb
     <div class="toright">
     	<a href="https://www.udacity.com/facebook-pytorch-scholarship">PyTorch Scholarship Challenge</a>
         <p class="programming">Zweimonatiger <i>Challenge Course</i>, in dem die Grundlagen des Deep Learning mit der Python-Programmbibliothek <a href="https://pytorch.org/">PyTorch</a> vermittelt werden. Konstruktion, Training und Anwendung von Machine-Learning-Algorithmen.</p>
-    	<progress value="15" max="100">In Bearbeitung</progress>
+    	<progress value="25" max="100">In Bearbeitung</progress>
     	<figcaption class="caption">In Bearbeitung</figcaption>
     </div>
 </div>
