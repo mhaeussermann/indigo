@@ -151,7 +151,7 @@ The courses used can each be understood as an introduction to the relevant subje
     <div class="toright">
     	<a href="https://github.com/cltl/python-for-text-analysis">Python for Text Analysis</a>
         <p class="programming">Introduction to the use of Python for text analysis by the Computational Lexicology and & Terminology Lab of the Vrije Universiteit Amsterdam. Supplemented by the workbook <i><a href="https://github.com/walshbr/textanalysiscoursebook">Introduction to Text Analysis</a></i> by Brandon Walsh and Sarah Horowitz.</p>
-		<progress value="12" max="18">In progress</progress>
+		<progress value="15" max="18">In progress</progress>
 		<figcaption class="caption">In progress</figcaption>
     </div>
 </div>
