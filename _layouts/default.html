@@ -3,7 +3,12 @@ layout: compress
 ---
 
 <!DOCTYPE html>
+{% if page.lang == "de" %}
+<html lang="de">
+{% endif %}
+{% if page.lang == "en" %}
 <html lang="en">
+{% endif %}
 <head>
 
     {% if site.analytics-google %}

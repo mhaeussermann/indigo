@@ -18,7 +18,7 @@ resume-external: true
 resume-url: https://google.com/?q=my+resume
 resume-de-url: 
 
-your url: http://manuelhaeussermann.de
+your url: https://manuelhaeussermann.de
 
 permalink: /:title/
 
@@ -58,7 +58,6 @@ tinyletter: mhaeussermann
 authors:
     mhaeussermann:
         name: Manuel Häußermann
-        bio: Literaturwissenschaftler.
         external-image: false
         picture: assets/images/profile.jpg
         twitter: _mnjl
