@@ -7,6 +7,7 @@ tag: projekt
 projects: true
 summary: "Ein Buchcover-Generator"
 category: projekt
+author: mhaeussermann
 ---
 ![Demo]({{site.url}}{{site.baseurl}}/assets/images/cover-generator-demo.gif)
 
