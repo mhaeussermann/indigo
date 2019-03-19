@@ -58,6 +58,7 @@ tinyletter: mhaeussermann
 authors:
     mhaeussermann:
         name: Manuel Häußermann
+        bio: I'm interested in the intersections between Literature, Culture and the Digital.
         external-image: false
         picture: assets/images/profile.jpg
         twitter: _mnjl
