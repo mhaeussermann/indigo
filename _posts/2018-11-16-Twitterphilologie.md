@@ -3,9 +3,9 @@ title: "Geisteswissenschaften auf Twitter: #twitterphilologie"
 layout: post
 date: 2018-12-05 18:00
 tag:
-- digital humanities
-- twitter
-- soziale netzwerkanalyse
+- Digital Humanities
+- Twitter
+- Soziale Netzwerkanalyse
 lang: de
 ref: twitterphilologie
 star: false

@@ -6,9 +6,9 @@ author: mhaeussermann
 lang: de
 ref: dh-paedagogik
 tag: 
-- digital humanities
-- syllabus
-- pädagogik
+- Digital Humanities
+- Pädagogik
+- Studiengänge
 blog: true
 star: false
 description: Einige Anmerkungen zur Lehre in den Digital Humanities
@@ -69,8 +69,6 @@ Die Studienordnung der Universität Leipzig spricht darüber hinaus noch einen w
 Uneinigkeit scheint darüber zu herrschen, wieviel ›klassische‹ Geisteswissenschaft für ein Studium der Digital Humanities notwendig ist. Die Universität Leipzig schreibt für ihren BSc (SO 2016) »Module im Umfang von 60 LP aus dem Wahlbereich der Geistes- und Sozialwissenschaften« vor, was 1/3 des Studienumfangs entspricht. Die MSc-Ordnung in Trier schreibt vor, dass »aus dem Wahlpflichtbereich Geisteswissenschaften und Digital Humanities [] Module im Gesamtumfang von mindestens 10 LP gewählt werden« müssen. Ähnlich sieht die Sache in Stuttgart aus: »In den Modulcontainern „Wahlbereich Informatik“ und „Wahlbereich Geisteswissenschaften“ sind zusammen 30 ECTS-Credits zu erbringen. In jedem der beiden Wahlbereiche sind hiervon mindestens Module im Umfang von 12 ECTS-Credits erfolgreich zu absolvieren.«.[^fn17] In der Modulstruktur in der Studienordnung der Universität Würzburg (Fassung 2018) taucht das Wort Geisteswissenschaft dagegen nur ein einziges Mal auf, im Kontext des »Basismodul[s] Informationskompetenz für Studierende der Geisteswissenschaften«.
 
 Was die Studiengänge, soweit dies von den Prüfungs- und Studienordnungen ersichtlich sein kann, damit hauptsächlich vermitteln, ist eine Art der ›Data Science mit textuellen Daten‹. Sie sind effektiv darin, den dritten Problempunkt, den Goldstone anbringt, zu lösen, nämlich die Pädagogik quantitativer Datenanalyse. Die Frage, die angesichts der Studienordnungen schwer zu beantworten bleibt, ist, ob die kritische Hinterfragung der Methodologien dabei zu kurz kommt, oder ob der Erwerb der technischen Fähigkeiten eben durch diese kritische Perspektive erfolgt. Eines bekräftigen die Beispiele jedoch einmal mehr: Digital Humanities, das ist vieles und vieles Disparates.  
-
-<br>
 
 ---
 

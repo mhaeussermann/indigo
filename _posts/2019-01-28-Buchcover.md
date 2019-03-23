@@ -3,7 +3,7 @@ title: "Reclaimbook – Ein Buchcover-Generator"
 layout: post
 lang: de
 ref: reclaim-project
-tag: projekt
+tag: Projekt
 projects: true
 summary: "Ein Buchcover-Generator"
 category: projekt
