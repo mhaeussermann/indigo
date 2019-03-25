@@ -107,6 +107,12 @@
     </a>
     {% endif %}
     
+    {% if site.piqd %}
+    <a class="link" data-title="piqd.de/users/{{ site.piqd }}" href="https://www.piqd.de/users/{{ site.piqd }}" target="_blank">
+        <svg class="icon icon-piqd"><use xlink:href="#icon-piqd"></use></svg>
+    </a>
+    {% endif %}
+
     {% if site.email %}
     <a class="link" data-title="{{ site.email }}" href="mailto:{{ site.email }}">
         <svg class="icon icon-mail"><use xlink:href="#icon-mail"></use></svg>
