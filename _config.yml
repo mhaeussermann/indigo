@@ -37,7 +37,6 @@ disqus:
 # if you don't have any of social below, comment the line
 facebook: m.haeussermann
 # twitter: _mnjl
-# google: mygoogle
 instagram: kanonenfutter
 # pinterest: mypinterest
 linkedin: manuel-häußermann-435003103
@@ -55,6 +54,7 @@ github: mhaeussermann
 email: m.haeussermann@gmail.com
 #tinyletter: mhaeussermann
 piqd: manuel.haeussermann
+geist: false
 
 authors:
     mhaeussermann:
