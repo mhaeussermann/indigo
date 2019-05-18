@@ -75,9 +75,21 @@ Die genutzten Kurse lassen sich je als Einführung in den entsprechenden Themenb
         <img class="image" src="http://www.cs50xhelpers.org/img/fb.png" alt="Harvard CS50">
     </div>
     <div class="toright">
-        <a href="https://cs50.edx.org">CS50: Introduction to Computer Science</a>
+        <a href="https://cs50.edx.org">Introduction to Computer Science (CS50)</a>
         <p class="programming">Einführungskurs in Informatik. Vermittlung der Grundlagen des algorithmischen Denkens und von grundlegenden Konzepten der Informatik (Abstraktion, Datenstrukturen, Softwaretechnik und –sicherheit, Webentwicklung). Einführung in gängige Programmiersprachen (C, Python, SQL sowie HTML/CSS und Javascript).</p>
-    	<progress value="2" max="11">In Bearbeitung</progress>
+    	<progress value="2" max="11">Unterbrochen</progress>
+    	<figcaption class="caption">Unterbrochen</figcaption>
+    </div>
+</div>
+
+<div class="side-by-side">
+    <div class="toleft">
+        <img class="image" src="https://online-learning.harvard.edu/sites/default/files/styles/header/public/course/HarvardX_DH_course_graphic_small%209.16.16%20AM-1.jpg" alt="Harvard DH101">
+    </div>
+    <div class="toright">
+        <a href="https://online-learning.harvard.edu/course/introduction-digital-humanities">Introduction to Digital Humanities (DH101)</a>
+        <p class="programming">Einführungskurs in die Digital Humanities. Vermittlung der Grundlagen der Forschung in den Digital Humanities, zeigt verschiedene Projekte und Tools und ihre Entstehung. Weiterhin Unterrichtseinheiten zu Datenakquise, -reinigung und -erstellung, sowie zur Nutzung der Kommandozeile und des Tools <a href="https://voyant-tools.org/">Voyant</a>.</p>
+    	<progress value="3" max="7">In Bearbeitung</progress>
     	<figcaption class="caption">In Bearbeitung</figcaption>
     </div>
 </div>
@@ -154,7 +166,7 @@ Die genutzten Kurse lassen sich je als Einführung in den entsprechenden Themenb
     <div class="toright">
     	<a href="https://github.com/cltl/python-for-text-analysis">Python for Text Analysis</a>
         <p class="programming">Einführung in die Verwendung von Python für Textanalysen des Computational Lexicology and & Terminology Lab der Vrije Universiteit Amsterdam. Ergänzt durch das Arbeitsbuch <i><a href="https://github.com/walshbr/textanalysiscoursebook">Introduction to Text Analysis</a></i> von Brandon Walsh und Sarah Horowitz.</p>
-		<progress value="15" max="18">In Bearbeitung</progress>
+		<progress value="17" max="18">In Bearbeitung</progress>
 		<figcaption class="caption">In Bearbeitung</figcaption>
     </div>
 </div>
@@ -181,8 +193,8 @@ Die genutzten Kurse lassen sich je als Einführung in den entsprechenden Themenb
     <div class="toright">
     	<a href="https://www.udacity.com/facebook-pytorch-scholarship">PyTorch Scholarship Challenge</a>
         <p class="programming">Zweimonatiger <i>Challenge Course</i>, in dem die Grundlagen des Deep Learning mit der Python-Programmbibliothek <a href="https://pytorch.org/">PyTorch</a> vermittelt werden. Konstruktion, Training und Anwendung von Machine-Learning-Algorithmen.</p>
-    	<progress value="25" max="100">In Bearbeitung</progress>
-    	<figcaption class="caption">In Bearbeitung</figcaption>
+    	<progress value="25" max="100">Unterbrochen</progress>
+    	<figcaption class="caption">Unterbrochen</figcaption>
     </div>
 </div>
 
