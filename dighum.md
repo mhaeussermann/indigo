@@ -87,8 +87,8 @@ The courses used can each be understood as an introduction to the relevant subje
         <a href="https://online-learning.harvard.edu/course/introduction-digital-humanities">Introduction to Digital Humanities (DH101)</a>
         <p class="programming">Introductory course in the Digital Humanities. 
         Conveys the basics of research in the Digital Humanities by showing different projects as well as tools and how and why they were developed. Includes units on acquiring, cleaning, and creating data as well as using the command line and the tool <a href="https://voyant-tools.org/">Voyant</a>.</p>
-    	<progress value="3" max="7">In process</progress>
-    	<figcaption class="caption">In process</figcaption>
+    	<progress value="7" max="7">Done</progress>
+    	<figcaption class="caption">Done</figcaption>
     </div>
 </div>
 
