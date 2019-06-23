@@ -99,7 +99,7 @@ The courses used can each be understood as an introduction to the relevant subje
     <div class="toleft">
         <a href="https://the-javascripting-english-major.org/v1/contents">The JavaScripting English Major</a>
         <p class="programming">Application-oriented course in JavaScript for <i>English Majors</i> and other humanists from <a href="https://moacir.com/" >Moacir P. de Sá Pereira</a>. Especially helpful for the interactive mediation and presentation of theories and results in the humanities for the digital space.</p>
-    	<progress value="5" max="15">In process</progress>
+    	<progress value="14" max="15">In process</progress>
     	<figcaption class="caption">In process</figcaption>
     </div>
 </div>
