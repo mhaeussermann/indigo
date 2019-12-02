@@ -101,8 +101,8 @@ Die genutzten Kurse lassen sich je als Einführung in den entsprechenden Themenb
     <div class="toleft">
         <a href="https://the-javascripting-english-major.org/v1/contents">The JavaScripting English Major</a>
         <p class="programming">Anwendungsorientierter Kurs in JavaScript für <i>English Majors</i> und andere Geisteswissenschafter von <a href="https://moacir.com/" >Moacir P. de Sá Pereira</a>. Hilfreich insbesondere für die interaktive Vermittlung und Darstellung von geisteswissenschaftlichen Thesen und Ergebnissen im digitalen Raum.</p>
-    	<progress value="14" max="15">In Bearbeitung</progress>
-    	<figcaption class="caption">In Bearbeitung</figcaption>
+    	<progress value="15" max="15">Abgeschlossen</progress>
+    	<figcaption class="caption">Abgeschlossen</figcaption>
     </div>
 </div>
 
